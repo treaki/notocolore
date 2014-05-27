@@ -1,0 +1,7 @@
+The NotoEmojis from android kitkat exported for the use with pidgin. Sources:
+
+https://android.googlesource.com/platform/external/noto-fonts
+https://github.com/tmm1/emoji-extractor
+http://sndbox.tumblr.com/post/67664038523/kitkats-color-emoji
+
+See also: https://github.com/treaki/pidgin-default-and-android-emoji-smileys
