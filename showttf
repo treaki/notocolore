@@ -1,0 +1,1787 @@
+version=1, numtables=10, searchRange=128 entrySel=3 rangeshift=32
+File Checksum =b1b0afba (should be 0xb1b0afba), diff=0
+CBDT checksum=c9aeabe1 actual=c9aeabe1 diff=0 offset=12608 len=3309031
+CBLC checksum=2a869caf actual=2a869caf diff=0 offset=3321640 len=6680
+OS/2 checksum=776768b2 actual=776768b2 diff=0 offset=296 len=96
+cmap checksum=0228b664 actual=0228b664 diff=0 offset=2032 len=1396
+head checksum=05565229 actual=afdc7235 diff=aa8a201c offset=172 len=54
+hhea checksum=12640804 actual=12640804 diff=0 offset=228 len=36
+hmtx checksum=09f60000 actual=09f60000 diff=0 offset=392 len=1638
+maxp checksum=03760039 actual=03760039 diff=0 offset=264 len=32
+name checksum=0cb12803 actual=0cb12803 diff=0 offset=3428 len=220
+post checksum=046519af actual=046519af diff=0 offset=3648 len=8960
+
+HEAD table (at 172)
+	Version=1
+	fontRevision=1
+	checksumAdj=aa86200c
+	magicNumber=5f0f3cf5 (0x5f0f3cf5, diff=0)
+	flags=b baseline_at_0 lsb_at_0 ppem_to_int 
+	unitsPerEm=2048
+	create[0]=0
+	 create[1]=cdc2d46b
+	File created: Wed May 22 22:00:43 2013
+	modtime[0]=0
+	 modtime[1]=ce7e3349
+	File modified: Sat Oct 12 00:59:21 2013
+	xmin=0
+	ymin=-500
+	xmax=2550
+	ymax=1900
+	macstyle=0
+	lowestppem=8
+	fontdirhint=2 left to right and neutrals
+	loca_is_32=0
+	glyphdataformat=0
+
+HHEAD table (at 228)
+	Version=1
+	ascender=1900
+	descender=-500
+	linegap=256
+	advanceWidthMax=2550
+	minlsb=0
+	minrsb=0
+	maxextent=2550
+	caretsloperise=1
+	caretsloperun=0
+	mbz=0
+	mbz=0
+	mbz=0
+	mbz=0
+	mbz=0
+	metricdataformat=0
+	numberOfHMetrics=1
+
+NAME table (at 3428)
+	format=0
+	nrecords=7
+	taboff=90
+	 platform=3 plat spec encoding=1 language=409 name=0 Copyright
+	 strlen=56  stroff=0	   ^@C^@o^@p^@y^@r^@i^@g^@h^@t^@ ^@2^@0^@1^@3^@,^@ ^@G^@o^@o^@g^@l^@e^@,^@ ^@I^@n^@c^@.
+	 platform=3 plat spec encoding=1 language=409 name=1 Family
+	 strlen=32  stroff=56	   ^@N^@o^@t^@o^@ ^@C^@o^@l^@o^@r^@ ^@E^@m^@o^@j^@i
+	 platform=3 plat spec encoding=1 language=409 name=2 Subfamily
+	 strlen=12  stroff=88	   ^@M^@e^@d^@i^@u^@m
+	 platform=3 plat spec encoding=1 language=409 name=3 UniqueID
+	 strlen=32  stroff=56	   ^@N^@o^@t^@o^@ ^@C^@o^@l^@o^@r^@ ^@E^@m^@o^@j^@i
+	 platform=3 plat spec encoding=1 language=409 name=4 FullName
+	 strlen=32  stroff=56	   ^@N^@o^@t^@o^@ ^@C^@o^@l^@o^@r^@ ^@E^@m^@o^@j^@i
+	 platform=3 plat spec encoding=1 language=409 name=5 Version
+	 strlen=30  stroff=100	   ^@V^@e^@r^@s^@i^@o^@n^@ ^@0^@0^@1^@.^@0^@0^@0
+	 platform=3 plat spec encoding=1 language=409 name=6 Postscript
+	 strlen=32  stroff=56	   ^@N^@o^@t^@o^@ ^@C^@o^@l^@o^@r^@ ^@E^@m^@o^@j^@i
+
+OS/2 table (at 296 for 96 bytes)
+	Version=4
+	 avgWidth=2550
+	 weightClass=500 Medium
+	 widthClass=5 Medium
+	 fstype=0x0 
+	 ySubscript XSize=1331
+	 ySubscript YSize=1433
+	 ySubscript XOffset=0
+	 ySubscript YOffset=286
+	 ySupscript XSize=1331
+	 ySupscript YSize=1433
+	 ySupscript XOffset=0
+	 ySupscript YOffset=983
+	 yStrikeoutSize=102
+	 yStrikeoutPos=530
+	 sFamilyClass=0000 No classification 
+	 Panose
+		Family: 02 Text & Display
+		Serif Type: 00 ???
+		Weight: 06 Medium
+		Proportion: 09 Monospaced
+		Contrast: 00 ???
+		Stroke Variation: 00 ???
+		Arm Style: 00 ???
+		Letterform: 00 ???
+		Midline: 00 ???
+		X-Height: 00 ???
+
+	 UnicodeRange=00000001 00000000 00000000 00000000
+	 achVendId 47 4f 4f 47 
+	 fsSelection=192
+	 firstcharindex=0
+	 lastcharindex=90
+	 stypeascender=1900
+	 stypedescender=-500
+	 stypelinegap=256
+	 usWinAscent=1900
+	 usWinDescent=500
+	 CodePageRange=00000001 00000000
+	xHeight=0
+	CapHeight=1900
+	DefaultChar=0
+	BreakChar=32
+	MaxContext=1
+
+MAXP table (at 264)
+	Version=1
+	 numGlyphs=818
+	 maxPoints=8
+	 maxContours=2
+	 maxCompositPoints=0
+	 maxCompositContours=0
+	 maxZones=2
+	 maxTwilightPoints=0
+	 maxStorage=1
+	 maxFunctionDefs=1
+	 maxInstructionDefs=0
+	 maxStackElements=64
+	 maxSizeOfInstructions=46
+	 maxComponentElements=0
+	 maxComponentDepth=0
+
+Encoding (cmap) table (at 2032)
+platform=3 specific=10 offset=12 MS UCS4
+ Format=12 len=1384 Language=0
+ Glyph 0 -> U+0000
+ Glyph 1 -> U+1F004
+ Glyph 2 -> U+FE82C
+ Glyph 3 -> U+FE82E
+ Glyph 4 -> U+FE82F
+ Glyph 5 -> U+FE830
+ Glyph 6 -> U+FE831
+ Glyph 7 -> U+FE832
+ Glyph 8 -> U+FE833
+ Glyph 9 -> U+FE834
+ Glyph 10 -> U+FE835
+ Glyph 11 -> U+FE836
+ Glyph 12 -> U+FE837
+ Glyph 13 -> U+1F55F
+ Glyph 14 -> U+26BD
+ Glyph 15 -> U+26BE
+ Glyph 16 -> U+1F6C4
+ Glyph 17 -> U+261D
+ Glyph 18 -> U+1F6C5
+ Glyph 19 -> U+00A9
+ Glyph 20 -> U+00AE
+ Glyph 21 -> U+1F0CF
+ Glyph 22 -> U+1F62C
+ Glyph 23 -> U+20E3
+ Glyph 24 -> U+3030
+ Glyph 25 -> U+2122
+ Glyph 26 -> U+1F170
+ Glyph 27 -> U+1F171
+ Glyph 28 -> U+1F17E
+ Glyph 29 -> U+1F17F
+ Glyph 30 -> U+1F18E
+ Glyph 31 -> U+1F191
+ Glyph 32 -> U+1F192
+ Glyph 33 -> U+1F193
+ Glyph 34 -> U+1F194
+ Glyph 35 -> U+1F195
+ Glyph 36 -> U+1F196
+ Glyph 37 -> U+1F197
+ Glyph 38 -> U+1F198
+ Glyph 39 -> U+1F199
+ Glyph 40 -> U+1F19A
+ Glyph 41 -> U+1F1E6
+ Glyph 42 -> U+1F1E7
+ Glyph 43 -> U+1F1E8
+ Glyph 44 -> U+1F1E9
+ Glyph 45 -> U+1F1EA
+ Glyph 46 -> U+1F1EB
+ Glyph 47 -> U+1F1EC
+ Glyph 48 -> U+1F1ED
+ Glyph 49 -> U+1F1EE
+ Glyph 50 -> U+1F1EF
+ Glyph 51 -> U+1F1F0
+ Glyph 52 -> U+1F1F1
+ Glyph 53 -> U+1F1F2
+ Glyph 54 -> U+1F1F3
+ Glyph 55 -> U+1F1F4
+ Glyph 56 -> U+1F1F5
+ Glyph 57 -> U+1F1F6
+ Glyph 58 -> U+1F1F7
+ Glyph 59 -> U+1F1F8
+ Glyph 60 -> U+1F1F9
+ Glyph 61 -> U+1F1FA
+ Glyph 62 -> U+1F1FB
+ Glyph 63 -> U+1F1FC
+ Glyph 64 -> U+1F1FD
+ Glyph 65 -> U+1F1FE
+ Glyph 66 -> U+1F1FF
+ Glyph 67 -> U+1F201
+ Glyph 68 -> U+1F202
+ Glyph 69 -> U+1F21A
+ Glyph 70 -> U+FE4E6
+ Glyph 71 -> U+1F22F
+ Glyph 72 -> U+1F232
+ Glyph 73 -> U+1F233
+ Glyph 74 -> U+1F234
+ Glyph 75 -> U+1F235
+ Glyph 76 -> U+1F236
+ Glyph 77 -> U+1F237
+ Glyph 78 -> U+1F238
+ Glyph 79 -> U+1F239
+ Glyph 80 -> U+1F23A
+ Glyph 81 -> U+1F250
+ Glyph 82 -> U+1F251
+ Glyph 83 -> U+1F63A
+ Glyph 84 -> U+1F31A
+ Glyph 85 -> U+1F31B
+ Glyph 86 -> U+2601
+ Glyph 87 -> U+1F479
+ Glyph 88 -> U+1F300
+ Glyph 89 -> U+1F301
+ Glyph 90 -> U+1F302
+ Glyph 91 -> U+1F303
+ Glyph 92 -> U+1F304
+ Glyph 93 -> U+1F305
+ Glyph 94 -> U+1F306
+ Glyph 95 -> U+1F307
+ Glyph 96 -> U+1F308
+ Glyph 97 -> U+1F309
+ Glyph 98 -> U+1F30A
+ Glyph 99 -> U+1F30B
+ Glyph 100 -> U+1F30C
+ Glyph 101 -> U+1F30D
+ Glyph 102 -> U+1F30E
+ Glyph 103 -> U+1F30F
+ Glyph 104 -> U+1F310
+ Glyph 105 -> U+1F311
+ Glyph 106 -> U+1F312
+ Glyph 107 -> U+1F313
+ Glyph 108 -> U+1F314
+ Glyph 109 -> U+1F315
+ Glyph 110 -> U+1F316
+ Glyph 111 -> U+1F317
+ Glyph 112 -> U+1F318
+ Glyph 113 -> U+1F319
+ Glyph 114 -> U+231A
+ Glyph 115 -> U+231B
+ Glyph 116 -> U+1F31C
+ Glyph 117 -> U+1F31D
+ Glyph 118 -> U+1F31E
+ Glyph 119 -> U+1F31F
+ Glyph 120 -> U+1F320
+ Glyph 121 -> U+1F330
+ Glyph 122 -> U+1F331
+ Glyph 123 -> U+1F332
+ Glyph 124 -> U+1F333
+ Glyph 125 -> U+1F334
+ Glyph 126 -> U+1F335
+ Glyph 127 -> U+1F337
+ Glyph 128 -> U+1F338
+ Glyph 129 -> U+1F339
+ Glyph 130 -> U+1F33A
+ Glyph 131 -> U+1F33B
+ Glyph 132 -> U+1F33C
+ Glyph 133 -> U+1F33D
+ Glyph 134 -> U+1F33E
+ Glyph 135 -> U+1F33F
+ Glyph 136 -> U+1F340
+ Glyph 137 -> U+1F341
+ Glyph 138 -> U+1F342
+ Glyph 139 -> U+1F343
+ Glyph 140 -> U+1F344
+ Glyph 141 -> U+1F345
+ Glyph 142 -> U+1F346
+ Glyph 143 -> U+1F347
+ Glyph 144 -> U+1F348
+ Glyph 145 -> U+1F349
+ Glyph 146 -> U+1F34A
+ Glyph 147 -> U+1F34B
+ Glyph 148 -> U+1F34C
+ Glyph 149 -> U+1F34D
+ Glyph 150 -> U+1F34E
+ Glyph 151 -> U+1F34F
+ Glyph 152 -> U+1F350
+ Glyph 153 -> U+1F351
+ Glyph 154 -> U+1F352
+ Glyph 155 -> U+1F353
+ Glyph 156 -> U+1F354
+ Glyph 157 -> U+1F355
+ Glyph 158 -> U+1F356
+ Glyph 159 -> U+1F357
+ Glyph 160 -> U+1F358
+ Glyph 161 -> U+1F359
+ Glyph 162 -> U+1F35A
+ Glyph 163 -> U+1F35B
+ Glyph 164 -> U+1F35C
+ Glyph 165 -> U+1F35D
+ Glyph 166 -> U+1F35E
+ Glyph 167 -> U+1F35F
+ Glyph 168 -> U+1F360
+ Glyph 169 -> U+1F361
+ Glyph 170 -> U+1F362
+ Glyph 171 -> U+1F363
+ Glyph 172 -> U+1F364
+ Glyph 173 -> U+1F365
+ Glyph 174 -> U+1F366
+ Glyph 175 -> U+1F367
+ Glyph 176 -> U+1F368
+ Glyph 177 -> U+1F369
+ Glyph 178 -> U+1F36A
+ Glyph 179 -> U+1F36B
+ Glyph 180 -> U+1F36C
+ Glyph 181 -> U+1F36D
+ Glyph 182 -> U+1F36E
+ Glyph 183 -> U+1F36F
+ Glyph 184 -> U+1F370
+ Glyph 185 -> U+1F371
+ Glyph 186 -> U+1F372
+ Glyph 187 -> U+1F373
+ Glyph 188 -> U+1F374
+ Glyph 189 -> U+1F375
+ Glyph 190 -> U+1F376
+ Glyph 191 -> U+1F377
+ Glyph 192 -> U+1F378
+ Glyph 193 -> U+1F379
+ Glyph 194 -> U+1F37A
+ Glyph 195 -> U+1F37B
+ Glyph 196 -> U+1F37C
+ Glyph 197 -> U+1F380
+ Glyph 198 -> U+1F381
+ Glyph 199 -> U+1F382
+ Glyph 200 -> U+1F383
+ Glyph 201 -> U+1F384
+ Glyph 202 -> U+1F385
+ Glyph 203 -> U+1F386
+ Glyph 204 -> U+1F387
+ Glyph 205 -> U+1F388
+ Glyph 206 -> U+1F389
+ Glyph 207 -> U+1F38A
+ Glyph 208 -> U+1F38B
+ Glyph 209 -> U+1F38C
+ Glyph 210 -> U+1F38D
+ Glyph 211 -> U+1F38E
+ Glyph 212 -> U+1F38F
+ Glyph 213 -> U+1F390
+ Glyph 214 -> U+1F391
+ Glyph 215 -> U+1F392
+ Glyph 216 -> U+1F393
+ Glyph 217 -> U+1F3A0
+ Glyph 218 -> U+1F3A1
+ Glyph 219 -> U+1F3A2
+ Glyph 220 -> U+1F3A3
+ Glyph 221 -> U+1F3A4
+ Glyph 222 -> U+1F3A5
+ Glyph 223 -> U+1F3A6
+ Glyph 224 -> U+1F3A7
+ Glyph 225 -> U+1F3A8
+ Glyph 226 -> U+1F3A9
+ Glyph 227 -> U+1F3AA
+ Glyph 228 -> U+1F3AB
+ Glyph 229 -> U+1F3AC
+ Glyph 230 -> U+1F3AD
+ Glyph 231 -> U+1F3AE
+ Glyph 232 -> U+1F3AF
+ Glyph 233 -> U+1F3B0
+ Glyph 234 -> U+1F3B1
+ Glyph 235 -> U+1F3B2
+ Glyph 236 -> U+1F3B3
+ Glyph 237 -> U+1F3B4
+ Glyph 238 -> U+1F3B5
+ Glyph 239 -> U+1F3B6
+ Glyph 240 -> U+1F3B7
+ Glyph 241 -> U+1F3B8
+ Glyph 242 -> U+1F3B9
+ Glyph 243 -> U+1F3BA
+ Glyph 244 -> U+1F3BB
+ Glyph 245 -> U+1F3BC
+ Glyph 246 -> U+1F3BD
+ Glyph 247 -> U+1F3BE
+ Glyph 248 -> U+1F3BF
+ Glyph 249 -> U+1F3C0
+ Glyph 250 -> U+1F3C1
+ Glyph 251 -> U+1F3C2
+ Glyph 252 -> U+1F3C3
+ Glyph 253 -> U+1F3C4
+ Glyph 254 -> U+1F3C6
+ Glyph 255 -> U+1F3C7
+ Glyph 256 -> U+1F3C8
+ Glyph 257 -> U+1F3C9
+ Glyph 258 -> U+1F3CA
+ Glyph 259 -> U+1F3E0
+ Glyph 260 -> U+1F3E1
+ Glyph 261 -> U+1F3E2
+ Glyph 262 -> U+1F3E3
+ Glyph 263 -> U+1F3E4
+ Glyph 264 -> U+1F3E5
+ Glyph 265 -> U+1F3E6
+ Glyph 266 -> U+1F3E7
+ Glyph 267 -> U+1F3E8
+ Glyph 268 -> U+1F3E9
+ Glyph 269 -> U+1F3EA
+ Glyph 270 -> U+23EB
+ Glyph 271 -> U+23EC
+ Glyph 272 -> U+1F3ED
+ Glyph 273 -> U+1F3EE
+ Glyph 274 -> U+1F3EF
+ Glyph 275 -> U+23F0
+ Glyph 276 -> U+23F3
+ Glyph 277 -> U+1F400
+ Glyph 278 -> U+1F401
+ Glyph 279 -> U+1F402
+ Glyph 280 -> U+1F403
+ Glyph 281 -> U+1F404
+ Glyph 282 -> U+1F405
+ Glyph 283 -> U+1F406
+ Glyph 284 -> U+1F407
+ Glyph 285 -> U+1F408
+ Glyph 286 -> U+1F409
+ Glyph 287 -> U+1F40A
+ Glyph 288 -> U+1F40B
+ Glyph 289 -> U+1F40C
+ Glyph 290 -> U+1F40D
+ Glyph 291 -> U+1F40E
+ Glyph 292 -> U+1F40F
+ Glyph 293 -> U+1F410
+ Glyph 294 -> U+1F411
+ Glyph 295 -> U+1F412
+ Glyph 296 -> U+1F413
+ Glyph 297 -> U+1F414
+ Glyph 298 -> U+1F415
+ Glyph 299 -> U+1F416
+ Glyph 300 -> U+1F417
+ Glyph 301 -> U+1F418
+ Glyph 302 -> U+1F419
+ Glyph 303 -> U+1F41A
+ Glyph 304 -> U+1F41B
+ Glyph 305 -> U+1F41C
+ Glyph 306 -> U+1F41D
+ Glyph 307 -> U+1F41E
+ Glyph 308 -> U+1F41F
+ Glyph 309 -> U+1F420
+ Glyph 310 -> U+1F421
+ Glyph 311 -> U+1F422
+ Glyph 312 -> U+1F423
+ Glyph 313 -> U+1F424
+ Glyph 314 -> U+1F425
+ Glyph 315 -> U+1F426
+ Glyph 316 -> U+1F427
+ Glyph 317 -> U+1F428
+ Glyph 318 -> U+1F429
+ Glyph 319 -> U+1F42A
+ Glyph 320 -> U+1F42B
+ Glyph 321 -> U+1F42C
+ Glyph 322 -> U+1F42D
+ Glyph 323 -> U+1F42E
+ Glyph 324 -> U+1F42F
+ Glyph 325 -> U+1F430
+ Glyph 326 -> U+1F431
+ Glyph 327 -> U+1F432
+ Glyph 328 -> U+1F433
+ Glyph 329 -> U+1F434
+ Glyph 330 -> U+1F435
+ Glyph 331 -> U+1F436
+ Glyph 332 -> U+1F437
+ Glyph 333 -> U+1F438
+ Glyph 334 -> U+1F439
+ Glyph 335 -> U+1F43A
+ Glyph 336 -> U+1F43B
+ Glyph 337 -> U+1F43C
+ Glyph 338 -> U+1F43D
+ Glyph 339 -> U+1F43E
+ Glyph 340 -> U+1F440
+ Glyph 341 -> U+1F442
+ Glyph 342 -> U+1F443
+ Glyph 343 -> U+1F444
+ Glyph 344 -> U+1F445
+ Glyph 345 -> U+1F446
+ Glyph 346 -> U+1F447
+ Glyph 347 -> U+1F448
+ Glyph 348 -> U+1F449
+ Glyph 349 -> U+1F44A
+ Glyph 350 -> U+1F44B
+ Glyph 351 -> U+1F44C
+ Glyph 352 -> U+1F44D
+ Glyph 353 -> U+1F44E
+ Glyph 354 -> U+1F44F
+ Glyph 355 -> U+1F450
+ Glyph 356 -> U+1F451
+ Glyph 357 -> U+1F452
+ Glyph 358 -> U+1F453
+ Glyph 359 -> U+1F454
+ Glyph 360 -> U+1F455
+ Glyph 361 -> U+1F456
+ Glyph 362 -> U+1F457
+ Glyph 363 -> U+1F458
+ Glyph 364 -> U+1F459
+ Glyph 365 -> U+1F45A
+ Glyph 366 -> U+1F45B
+ Glyph 367 -> U+1F45C
+ Glyph 368 -> U+1F45D
+ Glyph 369 -> U+1F45E
+ Glyph 370 -> U+1F45F
+ Glyph 371 -> U+1F460
+ Glyph 372 -> U+1F461
+ Glyph 373 -> U+1F462
+ Glyph 374 -> U+1F463
+ Glyph 375 -> U+1F464
+ Glyph 376 -> U+1F465
+ Glyph 377 -> U+1F466
+ Glyph 378 -> U+1F467
+ Glyph 379 -> U+1F468
+ Glyph 380 -> U+1F469
+ Glyph 381 -> U+1F46A
+ Glyph 382 -> U+1F46B
+ Glyph 383 -> U+1F46C
+ Glyph 384 -> U+1F46D
+ Glyph 385 -> U+1F46E
+ Glyph 386 -> U+1F46F
+ Glyph 387 -> U+1F470
+ Glyph 388 -> U+1F471
+ Glyph 389 -> U+1F472
+ Glyph 390 -> U+1F473
+ Glyph 391 -> U+1F474
+ Glyph 392 -> U+1F475
+ Glyph 393 -> U+1F476
+ Glyph 394 -> U+1F477
+ Glyph 395 -> U+1F478
+ Glyph 396 -> U+1F614
+ Glyph 397 -> U+1F47A
+ Glyph 398 -> U+1F47B
+ Glyph 399 -> U+1F47C
+ Glyph 400 -> U+1F47D
+ Glyph 401 -> U+1F47E
+ Glyph 402 -> U+1F47F
+ Glyph 403 -> U+1F480
+ Glyph 404 -> U+1F481
+ Glyph 405 -> U+1F482
+ Glyph 406 -> U+1F483
+ Glyph 407 -> U+1F484
+ Glyph 408 -> U+1F485
+ Glyph 409 -> U+1F486
+ Glyph 410 -> U+1F487
+ Glyph 411 -> U+1F488
+ Glyph 412 -> U+1F489
+ Glyph 413 -> U+1F48A
+ Glyph 414 -> U+1F48B
+ Glyph 415 -> U+1F48C
+ Glyph 416 -> U+1F48D
+ Glyph 417 -> U+1F48E
+ Glyph 418 -> U+1F48F
+ Glyph 419 -> U+1F490
+ Glyph 420 -> U+1F491
+ Glyph 421 -> U+1F492
+ Glyph 422 -> U+1F493
+ Glyph 423 -> U+1F494
+ Glyph 424 -> U+1F495
+ Glyph 425 -> U+1F496
+ Glyph 426 -> U+1F497
+ Glyph 427 -> U+1F498
+ Glyph 428 -> U+1F499
+ Glyph 429 -> U+1F49A
+ Glyph 430 -> U+1F49B
+ Glyph 431 -> U+1F49C
+ Glyph 432 -> U+1F49D
+ Glyph 433 -> U+1F49E
+ Glyph 434 -> U+1F49F
+ Glyph 435 -> U+1F4A0
+ Glyph 436 -> U+1F4A1
+ Glyph 437 -> U+1F4A2
+ Glyph 438 -> U+1F4A3
+ Glyph 439 -> U+1F4A4
+ Glyph 440 -> U+1F4A5
+ Glyph 441 -> U+1F4A6
+ Glyph 442 -> U+1F4A7
+ Glyph 443 -> U+1F4A8
+ Glyph 444 -> U+1F4A9
+ Glyph 445 -> U+1F4AA
+ Glyph 446 -> U+1F4AB
+ Glyph 447 -> U+1F4AC
+ Glyph 448 -> U+1F4AD
+ Glyph 449 -> U+1F4AE
+ Glyph 450 -> U+1F4AF
+ Glyph 451 -> U+1F4B0
+ Glyph 452 -> U+1F4B1
+ Glyph 453 -> U+1F4B2
+ Glyph 454 -> U+1F4B3
+ Glyph 455 -> U+1F4B4
+ Glyph 456 -> U+1F4B5
+ Glyph 457 -> U+1F4B6
+ Glyph 458 -> U+1F4B7
+ Glyph 459 -> U+1F4B8
+ Glyph 460 -> U+1F4B9
+ Glyph 461 -> U+1F4BA
+ Glyph 462 -> U+1F4BB
+ Glyph 463 -> U+1F4BC
+ Glyph 464 -> U+1F4BD
+ Glyph 465 -> U+1F4BE
+ Glyph 466 -> U+1F4BF
+ Glyph 467 -> U+1F4C0
+ Glyph 468 -> U+1F4C1
+ Glyph 469 -> U+1F4C2
+ Glyph 470 -> U+1F4C3
+ Glyph 471 -> U+1F4C4
+ Glyph 472 -> U+1F4C5
+ Glyph 473 -> U+1F4C6
+ Glyph 474 -> U+1F4C7
+ Glyph 475 -> U+1F4C8
+ Glyph 476 -> U+1F4C9
+ Glyph 477 -> U+1F4CA
+ Glyph 478 -> U+1F4CB
+ Glyph 479 -> U+1F4CC
+ Glyph 480 -> U+1F4CD
+ Glyph 481 -> U+1F4CE
+ Glyph 482 -> U+1F4CF
+ Glyph 483 -> U+1F4D0
+ Glyph 484 -> U+1F4D1
+ Glyph 485 -> U+1F4D2
+ Glyph 486 -> U+1F4D3
+ Glyph 487 -> U+1F4D4
+ Glyph 488 -> U+1F4D5
+ Glyph 489 -> U+1F4D6
+ Glyph 490 -> U+1F4D7
+ Glyph 491 -> U+1F4D8
+ Glyph 492 -> U+1F4D9
+ Glyph 493 -> U+1F4DA
+ Glyph 494 -> U+1F4DB
+ Glyph 495 -> U+1F4DC
+ Glyph 496 -> U+1F4DD
+ Glyph 497 -> U+1F4DE
+ Glyph 498 -> U+1F4DF
+ Glyph 499 -> U+1F4E0
+ Glyph 500 -> U+1F4E1
+ Glyph 501 -> U+1F4E2
+ Glyph 502 -> U+1F4E3
+ Glyph 503 -> U+1F4E4
+ Glyph 504 -> U+FE4E5
+ Glyph 505 -> U+1F4E6
+ Glyph 506 -> U+FE4E7
+ Glyph 507 -> U+1F4E8
+ Glyph 508 -> U+FE4E9
+ Glyph 509 -> U+FE4EA
+ Glyph 510 -> U+1F4EB
+ Glyph 511 -> U+1F4EC
+ Glyph 512 -> U+1F4ED
+ Glyph 513 -> U+FE4EE
+ Glyph 514 -> U+1F4EF
+ Glyph 515 -> U+1F4F0
+ Glyph 516 -> U+1F4F1
+ Glyph 517 -> U+1F4F2
+ Glyph 518 -> U+1F4F3
+ Glyph 519 -> U+1F4F4
+ Glyph 520 -> U+1F4F5
+ Glyph 521 -> U+1F4F6
+ Glyph 522 -> U+1F4F7
+ Glyph 523 -> U+1F4F9
+ Glyph 524 -> U+1F4FA
+ Glyph 525 -> U+1F4FB
+ Glyph 526 -> U+1F4FC
+ Glyph 527 -> U+1F500
+ Glyph 528 -> U+1F501
+ Glyph 529 -> U+1F502
+ Glyph 530 -> U+1F503
+ Glyph 531 -> U+1F504
+ Glyph 532 -> U+1F505
+ Glyph 533 -> U+1F506
+ Glyph 534 -> U+1F507
+ Glyph 535 -> U+1F508
+ Glyph 536 -> U+1F509
+ Glyph 537 -> U+1F50A
+ Glyph 538 -> U+1F50B
+ Glyph 539 -> U+1F50C
+ Glyph 540 -> U+1F50D
+ Glyph 541 -> U+1F50E
+ Glyph 542 -> U+1F50F
+ Glyph 543 -> U+1F510
+ Glyph 544 -> U+1F511
+ Glyph 545 -> U+1F512
+ Glyph 546 -> U+1F513
+ Glyph 547 -> U+1F514
+ Glyph 548 -> U+1F515
+ Glyph 549 -> U+1F516
+ Glyph 550 -> U+1F517
+ Glyph 551 -> U+1F518
+ Glyph 552 -> U+1F519
+ Glyph 553 -> U+1F51A
+ Glyph 554 -> U+1F51B
+ Glyph 555 -> U+1F51C
+ Glyph 556 -> U+1F51D
+ Glyph 557 -> U+1F51E
+ Glyph 558 -> U+1F51F
+ Glyph 559 -> U+1F520
+ Glyph 560 -> U+1F521
+ Glyph 561 -> U+1F522
+ Glyph 562 -> U+1F523
+ Glyph 563 -> U+1F524
+ Glyph 564 -> U+1F525
+ Glyph 565 -> U+1F526
+ Glyph 566 -> U+1F527
+ Glyph 567 -> U+1F528
+ Glyph 568 -> U+1F529
+ Glyph 569 -> U+1F52A
+ Glyph 570 -> U+1F52B
+ Glyph 571 -> U+1F52C
+ Glyph 572 -> U+1F52D
+ Glyph 573 -> U+1F52E
+ Glyph 574 -> U+1F52F
+ Glyph 575 -> U+1F530
+ Glyph 576 -> U+1F531
+ Glyph 577 -> U+1F532
+ Glyph 578 -> U+1F533
+ Glyph 579 -> U+1F534
+ Glyph 580 -> U+1F535
+ Glyph 581 -> U+1F536
+ Glyph 582 -> U+1F537
+ Glyph 583 -> U+1F538
+ Glyph 584 -> U+1F539
+ Glyph 585 -> U+1F53A
+ Glyph 586 -> U+1F53B
+ Glyph 587 -> U+1F53C
+ Glyph 588 -> U+1F53D
+ Glyph 589 -> U+1F550
+ Glyph 590 -> U+1F551
+ Glyph 591 -> U+1F552
+ Glyph 592 -> U+1F553
+ Glyph 593 -> U+1F554
+ Glyph 594 -> U+1F555
+ Glyph 595 -> U+1F556
+ Glyph 596 -> U+1F557
+ Glyph 597 -> U+1F558
+ Glyph 598 -> U+1F559
+ Glyph 599 -> U+1F55A
+ Glyph 600 -> U+1F55B
+ Glyph 601 -> U+1F55C
+ Glyph 602 -> U+1F55D
+ Glyph 603 -> U+1F55E
+ Glyph 604 -> U+1F4E5
+ Glyph 605 -> U+1F560
+ Glyph 606 -> U+1F561
+ Glyph 607 -> U+1F562
+ Glyph 608 -> U+1F563
+ Glyph 609 -> U+1F564
+ Glyph 610 -> U+1F565
+ Glyph 611 -> U+1F566
+ Glyph 612 -> U+1F567
+ Glyph 613 -> U+1F4E7
+ Glyph 614 -> U+FE4E8
+ Glyph 615 -> U+1F4E9
+ Glyph 616 -> U+1F4EA
+ Glyph 617 -> U+FE4EB
+ Glyph 618 -> U+FE4EC
+ Glyph 619 -> U+FE4ED
+ Glyph 620 -> U+1F4EE
+ Glyph 621 -> U+1F648
+ Glyph 622 -> U+2649
+ Glyph 623 -> U+1F64A
+ Glyph 624 -> U+1F64B
+ Glyph 625 -> U+1F64C
+ Glyph 626 -> U+264D
+ Glyph 627 -> U+1F64E
+ Glyph 628 -> U+1F64F
+ Glyph 629 -> U+1F5FB
+ Glyph 630 -> U+1F5FC
+ Glyph 631 -> U+1F5FD
+ Glyph 632 -> U+1F5FE
+ Glyph 633 -> U+1F5FF
+ Glyph 634 -> U+1F600
+ Glyph 635 -> U+1F601
+ Glyph 636 -> U+1F602
+ Glyph 637 -> U+1F603
+ Glyph 638 -> U+1F604
+ Glyph 639 -> U+1F605
+ Glyph 640 -> U+1F606
+ Glyph 641 -> U+1F607
+ Glyph 642 -> U+1F608
+ Glyph 643 -> U+1F609
+ Glyph 644 -> U+1F60A
+ Glyph 645 -> U+1F60B
+ Glyph 646 -> U+1F60C
+ Glyph 647 -> U+1F60D
+ Glyph 648 -> U+1F60E
+ Glyph 649 -> U+1F60F
+ Glyph 650 -> U+1F610
+ Glyph 651 -> U+1F611
+ Glyph 652 -> U+1F612
+ Glyph 653 -> U+1F613
+ Glyph 654 -> U+2614
+ Glyph 655 -> U+2615
+ Glyph 656 -> U+1F616
+ Glyph 657 -> U+1F617
+ Glyph 658 -> U+1F618
+ Glyph 659 -> U+1F619
+ Glyph 660 -> U+1F61A
+ Glyph 661 -> U+1F61B
+ Glyph 662 -> U+1F61C
+ Glyph 663 -> U+1F61D
+ Glyph 664 -> U+1F61E
+ Glyph 665 -> U+1F61F
+ Glyph 666 -> U+1F620
+ Glyph 667 -> U+1F621
+ Glyph 668 -> U+1F622
+ Glyph 669 -> U+1F623
+ Glyph 670 -> U+1F624
+ Glyph 671 -> U+1F625
+ Glyph 672 -> U+1F626
+ Glyph 673 -> U+1F627
+ Glyph 674 -> U+1F628
+ Glyph 675 -> U+1F629
+ Glyph 676 -> U+1F62A
+ Glyph 677 -> U+1F62B
+ Glyph 678 -> U+1F615
+ Glyph 679 -> U+1F62D
+ Glyph 680 -> U+1F62E
+ Glyph 681 -> U+1F62F
+ Glyph 682 -> U+1F630
+ Glyph 683 -> U+1F631
+ Glyph 684 -> U+1F632
+ Glyph 685 -> U+1F633
+ Glyph 686 -> U+1F634
+ Glyph 687 -> U+1F635
+ Glyph 688 -> U+1F636
+ Glyph 689 -> U+1F637
+ Glyph 690 -> U+1F638
+ Glyph 691 -> U+1F639
+ Glyph 692 -> U+263A
+ Glyph 693 -> U+1F63B
+ Glyph 694 -> U+1F63C
+ Glyph 695 -> U+1F63D
+ Glyph 696 -> U+1F63E
+ Glyph 697 -> U+1F63F
+ Glyph 698 -> U+1F640
+ Glyph 699 -> U+1F645
+ Glyph 700 -> U+1F646
+ Glyph 701 -> U+1F647
+ Glyph 702 -> U+2648
+ Glyph 703 -> U+1F649
+ Glyph 704 -> U+264A
+ Glyph 705 -> U+264B
+ Glyph 706 -> U+264C
+ Glyph 707 -> U+1F64D
+ Glyph 708 -> U+264E
+ Glyph 709 -> U+264F
+ Glyph 710 -> U+2650
+ Glyph 711 -> U+2651
+ Glyph 712 -> U+2652
+ Glyph 713 -> U+2653
+ Glyph 714 -> U+267B
+ Glyph 715 -> U+267F
+ Glyph 716 -> U+1F680
+ Glyph 717 -> U+1F681
+ Glyph 718 -> U+1F682
+ Glyph 719 -> U+1F683
+ Glyph 720 -> U+1F684
+ Glyph 721 -> U+1F685
+ Glyph 722 -> U+1F686
+ Glyph 723 -> U+1F687
+ Glyph 724 -> U+1F688
+ Glyph 725 -> U+1F689
+ Glyph 726 -> U+1F68A
+ Glyph 727 -> U+1F68B
+ Glyph 728 -> U+1F68C
+ Glyph 729 -> U+1F68D
+ Glyph 730 -> U+1F68E
+ Glyph 731 -> U+1F68F
+ Glyph 732 -> U+1F690
+ Glyph 733 -> U+1F691
+ Glyph 734 -> U+1F692
+ Glyph 735 -> U+1F693
+ Glyph 736 -> U+1F694
+ Glyph 737 -> U+1F695
+ Glyph 738 -> U+1F696
+ Glyph 739 -> U+1F697
+ Glyph 740 -> U+1F698
+ Glyph 741 -> U+1F699
+ Glyph 742 -> U+1F69A
+ Glyph 743 -> U+1F69B
+ Glyph 744 -> U+1F69C
+ Glyph 745 -> U+1F69D
+ Glyph 746 -> U+1F69E
+ Glyph 747 -> U+1F69F
+ Glyph 748 -> U+1F6A0
+ Glyph 749 -> U+26A1
+ Glyph 750 -> U+1F6A2
+ Glyph 751 -> U+1F6A3
+ Glyph 752 -> U+1F6A4
+ Glyph 753 -> U+1F6A5
+ Glyph 754 -> U+1F6A6
+ Glyph 755 -> U+1F6A7
+ Glyph 756 -> U+1F6A8
+ Glyph 757 -> U+1F6A9
+ Glyph 758 -> U+1F6AA
+ Glyph 759 -> U+1F6AB
+ Glyph 760 -> U+1F6AC
+ Glyph 761 -> U+1F6AD
+ Glyph 762 -> U+1F6AE
+ Glyph 763 -> U+1F6AF
+ Glyph 764 -> U+1F6B0
+ Glyph 765 -> U+1F6B1
+ Glyph 766 -> U+1F6B2
+ Glyph 767 -> U+1F6B3
+ Glyph 768 -> U+1F6B4
+ Glyph 769 -> U+1F6B5
+ Glyph 770 -> U+1F6B6
+ Glyph 771 -> U+1F6B7
+ Glyph 772 -> U+1F6B8
+ Glyph 773 -> U+1F6B9
+ Glyph 774 -> U+1F6BA
+ Glyph 775 -> U+1F6BB
+ Glyph 776 -> U+1F6BC
+ Glyph 777 -> U+1F6BD
+ Glyph 778 -> U+1F6BE
+ Glyph 779 -> U+1F6BF
+ Glyph 780 -> U+1F6C0
+ Glyph 781 -> U+1F6C1
+ Glyph 782 -> U+1F6C2
+ Glyph 783 -> U+1F6C3
+ Glyph 784 -> U+26C4
+ Glyph 785 -> U+26C5
+ Glyph 786 -> U+26CE
+ Glyph 787 -> U+26D4
+ Glyph 788 -> U+26EA
+ Glyph 789 -> U+26F2
+ Glyph 790 -> U+26F3
+ Glyph 791 -> U+26F5
+ Glyph 792 -> U+26FA
+ Glyph 793 -> U+26FD
+ Glyph 794 -> U+2705
+ Glyph 795 -> U+270A
+ Glyph 796 -> U+270B
+ Glyph 797 -> U+270C
+ Glyph 798 -> U+2728
+ Glyph 799 -> U+2611
+ Glyph 800 -> U+274C
+ Glyph 801 -> U+274E
+ Glyph 802 -> U+2753
+ Glyph 803 -> U+2754
+ Glyph 804 -> U+2755
+ Glyph 805 -> U+2693
+ Glyph 806 -> U+23E9
+ Glyph 807 -> U+23EA
+ Glyph 808 -> U+1F3EB
+ Glyph 809 -> U+1F3EC
+ Glyph 810 -> U+2795
+ Glyph 811 -> U+2796
+ Glyph 812 -> U+2797
+ Glyph 813 -> U+1F3F0
+ Glyph 814 -> U+27B0
+ Glyph 815 -> U+27BF
+ Glyph 816 -> U+26A0
+ Glyph 817 -> U+1F6A1
+
+post table (at 3648)
+	 format=00020000
+	 italicAngle=0
+	 underlinePos=-1244
+	 underlineWidth=131
+	 fixedpitch=1
+	 mem1=0
+	 mem2=0
+	 mem3=0
+	 mem4=0
+Glyph 0 (name index=0) -> ".notdef"	  U+0000
+Glyph 1 (name index=258) -> "uni1f004"	  U+1F004
+Glyph 2 (name index=259) -> "unife82c"	  U+FE82C
+Glyph 3 (name index=260) -> "unife82e"	  U+FE82E
+Glyph 4 (name index=261) -> "unife82f"	  U+FE82F
+Glyph 5 (name index=262) -> "unife830"	  U+FE830
+Glyph 6 (name index=263) -> "unife831"	  U+FE831
+Glyph 7 (name index=264) -> "unife832"	  U+FE832
+Glyph 8 (name index=265) -> "unife833"	  U+FE833
+Glyph 9 (name index=266) -> "unife834"	  U+FE834
+Glyph 10 (name index=267) -> "unife835"	  U+FE835
+Glyph 11 (name index=268) -> "unife836"	  U+FE836
+Glyph 12 (name index=269) -> "unife837"	  U+FE837
+Glyph 13 (name index=270) -> "uni1f55f"	  U+1F55F
+Glyph 14 (name index=271) -> "uni26bd"	  U+26BD
+Glyph 15 (name index=272) -> "uni26be"	  U+26BE
+Glyph 16 (name index=273) -> "uni1f6c4"	  U+1F6C4
+Glyph 17 (name index=274) -> "uni261d"	  U+261D
+Glyph 18 (name index=275) -> "uni1f6c5"	  U+1F6C5
+Glyph 19 (name index=276) -> "uni00a9"	  U+00A9
+Glyph 20 (name index=277) -> "uni00ae"	  U+00AE
+Glyph 21 (name index=278) -> "uni1f0cf"	  U+1F0CF
+Glyph 22 (name index=279) -> "uni1f62c"	  U+1F62C
+Glyph 23 (name index=280) -> "uni20e3"	  U+20E3
+Glyph 24 (name index=281) -> "uni3030"	  U+3030
+Glyph 25 (name index=282) -> "uni2122"	  U+2122
+Glyph 26 (name index=283) -> "uni1f170"	  U+1F170
+Glyph 27 (name index=284) -> "uni1f171"	  U+1F171
+Glyph 28 (name index=285) -> "uni1f17e"	  U+1F17E
+Glyph 29 (name index=286) -> "uni1f17f"	  U+1F17F
+Glyph 30 (name index=287) -> "uni1f18e"	  U+1F18E
+Glyph 31 (name index=288) -> "uni1f191"	  U+1F191
+Glyph 32 (name index=289) -> "uni1f192"	  U+1F192
+Glyph 33 (name index=290) -> "uni1f193"	  U+1F193
+Glyph 34 (name index=291) -> "uni1f194"	  U+1F194
+Glyph 35 (name index=292) -> "uni1f195"	  U+1F195
+Glyph 36 (name index=293) -> "uni1f196"	  U+1F196
+Glyph 37 (name index=294) -> "uni1f197"	  U+1F197
+Glyph 38 (name index=295) -> "uni1f198"	  U+1F198
+Glyph 39 (name index=296) -> "uni1f199"	  U+1F199
+Glyph 40 (name index=297) -> "uni1f19a"	  U+1F19A
+Glyph 41 (name index=298) -> "uni1f1e6"	  U+1F1E6
+Glyph 42 (name index=299) -> "uni1f1e7"	  U+1F1E7
+Glyph 43 (name index=300) -> "uni1f1e8"	  U+1F1E8
+Glyph 44 (name index=301) -> "uni1f1e9"	  U+1F1E9
+Glyph 45 (name index=302) -> "uni1f1ea"	  U+1F1EA
+Glyph 46 (name index=303) -> "uni1f1eb"	  U+1F1EB
+Glyph 47 (name index=304) -> "uni1f1ec"	  U+1F1EC
+Glyph 48 (name index=305) -> "uni1f1ed"	  U+1F1ED
+Glyph 49 (name index=306) -> "uni1f1ee"	  U+1F1EE
+Glyph 50 (name index=307) -> "uni1f1ef"	  U+1F1EF
+Glyph 51 (name index=308) -> "uni1f1f0"	  U+1F1F0
+Glyph 52 (name index=309) -> "uni1f1f1"	  U+1F1F1
+Glyph 53 (name index=310) -> "uni1f1f2"	  U+1F1F2
+Glyph 54 (name index=311) -> "uni1f1f3"	  U+1F1F3
+Glyph 55 (name index=312) -> "uni1f1f4"	  U+1F1F4
+Glyph 56 (name index=313) -> "uni1f1f5"	  U+1F1F5
+Glyph 57 (name index=314) -> "uni1f1f6"	  U+1F1F6
+Glyph 58 (name index=315) -> "uni1f1f7"	  U+1F1F7
+Glyph 59 (name index=316) -> "uni1f1f8"	  U+1F1F8
+Glyph 60 (name index=317) -> "uni1f1f9"	  U+1F1F9
+Glyph 61 (name index=318) -> "uni1f1fa"	  U+1F1FA
+Glyph 62 (name index=319) -> "uni1f1fb"	  U+1F1FB
+Glyph 63 (name index=320) -> "uni1f1fc"	  U+1F1FC
+Glyph 64 (name index=321) -> "uni1f1fd"	  U+1F1FD
+Glyph 65 (name index=322) -> "uni1f1fe"	  U+1F1FE
+Glyph 66 (name index=323) -> "uni1f1ff"	  U+1F1FF
+Glyph 67 (name index=324) -> "uni1f201"	  U+1F201
+Glyph 68 (name index=325) -> "uni1f202"	  U+1F202
+Glyph 69 (name index=326) -> "uni1f21a"	  U+1F21A
+Glyph 70 (name index=327) -> "unife4e6"	  U+FE4E6
+Glyph 71 (name index=328) -> "uni1f22f"	  U+1F22F
+Glyph 72 (name index=329) -> "uni1f232"	  U+1F232
+Glyph 73 (name index=330) -> "uni1f233"	  U+1F233
+Glyph 74 (name index=331) -> "uni1f234"	  U+1F234
+Glyph 75 (name index=332) -> "uni1f235"	  U+1F235
+Glyph 76 (name index=333) -> "uni1f236"	  U+1F236
+Glyph 77 (name index=334) -> "uni1f237"	  U+1F237
+Glyph 78 (name index=335) -> "uni1f238"	  U+1F238
+Glyph 79 (name index=336) -> "uni1f239"	  U+1F239
+Glyph 80 (name index=337) -> "uni1f23a"	  U+1F23A
+Glyph 81 (name index=338) -> "uni1f250"	  U+1F250
+Glyph 82 (name index=339) -> "uni1f251"	  U+1F251
+Glyph 83 (name index=340) -> "uni1f63a"	  U+1F63A
+Glyph 84 (name index=341) -> "uni1f31a"	  U+1F31A
+Glyph 85 (name index=342) -> "uni1f31b"	  U+1F31B
+Glyph 86 (name index=343) -> "uni2601"	  U+2601
+Glyph 87 (name index=344) -> "uni1f479"	  U+1F479
+Glyph 88 (name index=345) -> "uni1f300"	  U+1F300
+Glyph 89 (name index=346) -> "uni1f301"	  U+1F301
+Glyph 90 (name index=347) -> "uni1f302"	  U+1F302
+Glyph 91 (name index=348) -> "uni1f303"	  U+1F303
+Glyph 92 (name index=349) -> "uni1f304"	  U+1F304
+Glyph 93 (name index=350) -> "uni1f305"	  U+1F305
+Glyph 94 (name index=351) -> "uni1f306"	  U+1F306
+Glyph 95 (name index=352) -> "uni1f307"	  U+1F307
+Glyph 96 (name index=353) -> "uni1f308"	  U+1F308
+Glyph 97 (name index=354) -> "uni1f309"	  U+1F309
+Glyph 98 (name index=355) -> "uni1f30a"	  U+1F30A
+Glyph 99 (name index=356) -> "uni1f30b"	  U+1F30B
+Glyph 100 (name index=357) -> "uni1f30c"	  U+1F30C
+Glyph 101 (name index=358) -> "uni1f30d"	  U+1F30D
+Glyph 102 (name index=359) -> "uni1f30e"	  U+1F30E
+Glyph 103 (name index=360) -> "uni1f30f"	  U+1F30F
+Glyph 104 (name index=361) -> "uni1f310"	  U+1F310
+Glyph 105 (name index=362) -> "uni1f311"	  U+1F311
+Glyph 106 (name index=363) -> "uni1f312"	  U+1F312
+Glyph 107 (name index=364) -> "uni1f313"	  U+1F313
+Glyph 108 (name index=365) -> "uni1f314"	  U+1F314
+Glyph 109 (name index=366) -> "uni1f315"	  U+1F315
+Glyph 110 (name index=367) -> "uni1f316"	  U+1F316
+Glyph 111 (name index=368) -> "uni1f317"	  U+1F317
+Glyph 112 (name index=369) -> "uni1f318"	  U+1F318
+Glyph 113 (name index=370) -> "uni1f319"	  U+1F319
+Glyph 114 (name index=371) -> "uni231a"	  U+231A
+Glyph 115 (name index=372) -> "uni231b"	  U+231B
+Glyph 116 (name index=373) -> "uni1f31c"	  U+1F31C
+Glyph 117 (name index=374) -> "uni1f31d"	  U+1F31D
+Glyph 118 (name index=375) -> "uni1f31e"	  U+1F31E
+Glyph 119 (name index=376) -> "uni1f31f"	  U+1F31F
+Glyph 120 (name index=377) -> "uni1f320"	  U+1F320
+Glyph 121 (name index=378) -> "uni1f330"	  U+1F330
+Glyph 122 (name index=379) -> "uni1f331"	  U+1F331
+Glyph 123 (name index=380) -> "uni1f332"	  U+1F332
+Glyph 124 (name index=381) -> "uni1f333"	  U+1F333
+Glyph 125 (name index=382) -> "uni1f334"	  U+1F334
+Glyph 126 (name index=383) -> "uni1f335"	  U+1F335
+Glyph 127 (name index=384) -> "uni1f337"	  U+1F337
+Glyph 128 (name index=385) -> "uni1f338"	  U+1F338
+Glyph 129 (name index=386) -> "uni1f339"	  U+1F339
+Glyph 130 (name index=387) -> "uni1f33a"	  U+1F33A
+Glyph 131 (name index=388) -> "uni1f33b"	  U+1F33B
+Glyph 132 (name index=389) -> "uni1f33c"	  U+1F33C
+Glyph 133 (name index=390) -> "uni1f33d"	  U+1F33D
+Glyph 134 (name index=391) -> "uni1f33e"	  U+1F33E
+Glyph 135 (name index=392) -> "uni1f33f"	  U+1F33F
+Glyph 136 (name index=393) -> "uni1f340"	  U+1F340
+Glyph 137 (name index=394) -> "uni1f341"	  U+1F341
+Glyph 138 (name index=395) -> "uni1f342"	  U+1F342
+Glyph 139 (name index=396) -> "uni1f343"	  U+1F343
+Glyph 140 (name index=397) -> "uni1f344"	  U+1F344
+Glyph 141 (name index=398) -> "uni1f345"	  U+1F345
+Glyph 142 (name index=399) -> "uni1f346"	  U+1F346
+Glyph 143 (name index=400) -> "uni1f347"	  U+1F347
+Glyph 144 (name index=401) -> "uni1f348"	  U+1F348
+Glyph 145 (name index=402) -> "uni1f349"	  U+1F349
+Glyph 146 (name index=403) -> "uni1f34a"	  U+1F34A
+Glyph 147 (name index=404) -> "uni1f34b"	  U+1F34B
+Glyph 148 (name index=405) -> "uni1f34c"	  U+1F34C
+Glyph 149 (name index=406) -> "uni1f34d"	  U+1F34D
+Glyph 150 (name index=407) -> "uni1f34e"	  U+1F34E
+Glyph 151 (name index=408) -> "uni1f34f"	  U+1F34F
+Glyph 152 (name index=409) -> "uni1f350"	  U+1F350
+Glyph 153 (name index=410) -> "uni1f351"	  U+1F351
+Glyph 154 (name index=411) -> "uni1f352"	  U+1F352
+Glyph 155 (name index=412) -> "uni1f353"	  U+1F353
+Glyph 156 (name index=413) -> "uni1f354"	  U+1F354
+Glyph 157 (name index=414) -> "uni1f355"	  U+1F355
+Glyph 158 (name index=415) -> "uni1f356"	  U+1F356
+Glyph 159 (name index=416) -> "uni1f357"	  U+1F357
+Glyph 160 (name index=417) -> "uni1f358"	  U+1F358
+Glyph 161 (name index=418) -> "uni1f359"	  U+1F359
+Glyph 162 (name index=419) -> "uni1f35a"	  U+1F35A
+Glyph 163 (name index=420) -> "uni1f35b"	  U+1F35B
+Glyph 164 (name index=421) -> "uni1f35c"	  U+1F35C
+Glyph 165 (name index=422) -> "uni1f35d"	  U+1F35D
+Glyph 166 (name index=423) -> "uni1f35e"	  U+1F35E
+Glyph 167 (name index=424) -> "uni1f35f"	  U+1F35F
+Glyph 168 (name index=425) -> "uni1f360"	  U+1F360
+Glyph 169 (name index=426) -> "uni1f361"	  U+1F361
+Glyph 170 (name index=427) -> "uni1f362"	  U+1F362
+Glyph 171 (name index=428) -> "uni1f363"	  U+1F363
+Glyph 172 (name index=429) -> "uni1f364"	  U+1F364
+Glyph 173 (name index=430) -> "uni1f365"	  U+1F365
+Glyph 174 (name index=431) -> "uni1f366"	  U+1F366
+Glyph 175 (name index=432) -> "uni1f367"	  U+1F367
+Glyph 176 (name index=433) -> "uni1f368"	  U+1F368
+Glyph 177 (name index=434) -> "uni1f369"	  U+1F369
+Glyph 178 (name index=435) -> "uni1f36a"	  U+1F36A
+Glyph 179 (name index=436) -> "uni1f36b"	  U+1F36B
+Glyph 180 (name index=437) -> "uni1f36c"	  U+1F36C
+Glyph 181 (name index=438) -> "uni1f36d"	  U+1F36D
+Glyph 182 (name index=439) -> "uni1f36e"	  U+1F36E
+Glyph 183 (name index=440) -> "uni1f36f"	  U+1F36F
+Glyph 184 (name index=441) -> "uni1f370"	  U+1F370
+Glyph 185 (name index=442) -> "uni1f371"	  U+1F371
+Glyph 186 (name index=443) -> "uni1f372"	  U+1F372
+Glyph 187 (name index=444) -> "uni1f373"	  U+1F373
+Glyph 188 (name index=445) -> "uni1f374"	  U+1F374
+Glyph 189 (name index=446) -> "uni1f375"	  U+1F375
+Glyph 190 (name index=447) -> "uni1f376"	  U+1F376
+Glyph 191 (name index=448) -> "uni1f377"	  U+1F377
+Glyph 192 (name index=449) -> "uni1f378"	  U+1F378
+Glyph 193 (name index=450) -> "uni1f379"	  U+1F379
+Glyph 194 (name index=451) -> "uni1f37a"	  U+1F37A
+Glyph 195 (name index=452) -> "uni1f37b"	  U+1F37B
+Glyph 196 (name index=453) -> "uni1f37c"	  U+1F37C
+Glyph 197 (name index=454) -> "uni1f380"	  U+1F380
+Glyph 198 (name index=455) -> "uni1f381"	  U+1F381
+Glyph 199 (name index=456) -> "uni1f382"	  U+1F382
+Glyph 200 (name index=457) -> "uni1f383"	  U+1F383
+Glyph 201 (name index=458) -> "uni1f384"	  U+1F384
+Glyph 202 (name index=459) -> "uni1f385"	  U+1F385
+Glyph 203 (name index=460) -> "uni1f386"	  U+1F386
+Glyph 204 (name index=461) -> "uni1f387"	  U+1F387
+Glyph 205 (name index=462) -> "uni1f388"	  U+1F388
+Glyph 206 (name index=463) -> "uni1f389"	  U+1F389
+Glyph 207 (name index=464) -> "uni1f38a"	  U+1F38A
+Glyph 208 (name index=465) -> "uni1f38b"	  U+1F38B
+Glyph 209 (name index=466) -> "uni1f38c"	  U+1F38C
+Glyph 210 (name index=467) -> "uni1f38d"	  U+1F38D
+Glyph 211 (name index=468) -> "uni1f38e"	  U+1F38E
+Glyph 212 (name index=469) -> "uni1f38f"	  U+1F38F
+Glyph 213 (name index=470) -> "uni1f390"	  U+1F390
+Glyph 214 (name index=471) -> "uni1f391"	  U+1F391
+Glyph 215 (name index=472) -> "uni1f392"	  U+1F392
+Glyph 216 (name index=473) -> "uni1f393"	  U+1F393
+Glyph 217 (name index=474) -> "uni1f3a0"	  U+1F3A0
+Glyph 218 (name index=475) -> "uni1f3a1"	  U+1F3A1
+Glyph 219 (name index=476) -> "uni1f3a2"	  U+1F3A2
+Glyph 220 (name index=477) -> "uni1f3a3"	  U+1F3A3
+Glyph 221 (name index=478) -> "uni1f3a4"	  U+1F3A4
+Glyph 222 (name index=479) -> "uni1f3a5"	  U+1F3A5
+Glyph 223 (name index=480) -> "uni1f3a6"	  U+1F3A6
+Glyph 224 (name index=481) -> "uni1f3a7"	  U+1F3A7
+Glyph 225 (name index=482) -> "uni1f3a8"	  U+1F3A8
+Glyph 226 (name index=483) -> "uni1f3a9"	  U+1F3A9
+Glyph 227 (name index=484) -> "uni1f3aa"	  U+1F3AA
+Glyph 228 (name index=485) -> "uni1f3ab"	  U+1F3AB
+Glyph 229 (name index=486) -> "uni1f3ac"	  U+1F3AC
+Glyph 230 (name index=487) -> "uni1f3ad"	  U+1F3AD
+Glyph 231 (name index=488) -> "uni1f3ae"	  U+1F3AE
+Glyph 232 (name index=489) -> "uni1f3af"	  U+1F3AF
+Glyph 233 (name index=490) -> "uni1f3b0"	  U+1F3B0
+Glyph 234 (name index=491) -> "uni1f3b1"	  U+1F3B1
+Glyph 235 (name index=492) -> "uni1f3b2"	  U+1F3B2
+Glyph 236 (name index=493) -> "uni1f3b3"	  U+1F3B3
+Glyph 237 (name index=494) -> "uni1f3b4"	  U+1F3B4
+Glyph 238 (name index=495) -> "uni1f3b5"	  U+1F3B5
+Glyph 239 (name index=496) -> "uni1f3b6"	  U+1F3B6
+Glyph 240 (name index=497) -> "uni1f3b7"	  U+1F3B7
+Glyph 241 (name index=498) -> "uni1f3b8"	  U+1F3B8
+Glyph 242 (name index=499) -> "uni1f3b9"	  U+1F3B9
+Glyph 243 (name index=500) -> "uni1f3ba"	  U+1F3BA
+Glyph 244 (name index=501) -> "uni1f3bb"	  U+1F3BB
+Glyph 245 (name index=502) -> "uni1f3bc"	  U+1F3BC
+Glyph 246 (name index=503) -> "uni1f3bd"	  U+1F3BD
+Glyph 247 (name index=504) -> "uni1f3be"	  U+1F3BE
+Glyph 248 (name index=505) -> "uni1f3bf"	  U+1F3BF
+Glyph 249 (name index=506) -> "uni1f3c0"	  U+1F3C0
+Glyph 250 (name index=507) -> "uni1f3c1"	  U+1F3C1
+Glyph 251 (name index=508) -> "uni1f3c2"	  U+1F3C2
+Glyph 252 (name index=509) -> "uni1f3c3"	  U+1F3C3
+Glyph 253 (name index=510) -> "uni1f3c4"	  U+1F3C4
+Glyph 254 (name index=511) -> "uni1f3c6"	  U+1F3C6
+Glyph 255 (name index=512) -> "uni1f3c7"	  U+1F3C7
+Glyph 256 (name index=513) -> "uni1f3c8"	  U+1F3C8
+Glyph 257 (name index=514) -> "uni1f3c9"	  U+1F3C9
+Glyph 258 (name index=515) -> "uni1f3ca"	  U+1F3CA
+Glyph 259 (name index=516) -> "uni1f3e0"	  U+1F3E0
+Glyph 260 (name index=517) -> "uni1f3e1"	  U+1F3E1
+Glyph 261 (name index=518) -> "uni1f3e2"	  U+1F3E2
+Glyph 262 (name index=519) -> "uni1f3e3"	  U+1F3E3
+Glyph 263 (name index=520) -> "uni1f3e4"	  U+1F3E4
+Glyph 264 (name index=521) -> "uni1f3e5"	  U+1F3E5
+Glyph 265 (name index=522) -> "uni1f3e6"	  U+1F3E6
+Glyph 266 (name index=523) -> "uni1f3e7"	  U+1F3E7
+Glyph 267 (name index=524) -> "uni1f3e8"	  U+1F3E8
+Glyph 268 (name index=525) -> "uni1f3e9"	  U+1F3E9
+Glyph 269 (name index=526) -> "uni1f3ea"	  U+1F3EA
+Glyph 270 (name index=527) -> "uni23eb"	  U+23EB
+Glyph 271 (name index=528) -> "uni23ec"	  U+23EC
+Glyph 272 (name index=529) -> "uni1f3ed"	  U+1F3ED
+Glyph 273 (name index=530) -> "uni1f3ee"	  U+1F3EE
+Glyph 274 (name index=531) -> "uni1f3ef"	  U+1F3EF
+Glyph 275 (name index=532) -> "uni23f0"	  U+23F0
+Glyph 276 (name index=533) -> "uni23f3"	  U+23F3
+Glyph 277 (name index=534) -> "uni1f400"	  U+1F400
+Glyph 278 (name index=535) -> "uni1f401"	  U+1F401
+Glyph 279 (name index=536) -> "uni1f402"	  U+1F402
+Glyph 280 (name index=537) -> "uni1f403"	  U+1F403
+Glyph 281 (name index=538) -> "uni1f404"	  U+1F404
+Glyph 282 (name index=539) -> "uni1f405"	  U+1F405
+Glyph 283 (name index=540) -> "uni1f406"	  U+1F406
+Glyph 284 (name index=541) -> "uni1f407"	  U+1F407
+Glyph 285 (name index=542) -> "uni1f408"	  U+1F408
+Glyph 286 (name index=543) -> "uni1f409"	  U+1F409
+Glyph 287 (name index=544) -> "uni1f40a"	  U+1F40A
+Glyph 288 (name index=545) -> "uni1f40b"	  U+1F40B
+Glyph 289 (name index=546) -> "uni1f40c"	  U+1F40C
+Glyph 290 (name index=547) -> "uni1f40d"	  U+1F40D
+Glyph 291 (name index=548) -> "uni1f40e"	  U+1F40E
+Glyph 292 (name index=549) -> "uni1f40f"	  U+1F40F
+Glyph 293 (name index=550) -> "uni1f410"	  U+1F410
+Glyph 294 (name index=551) -> "uni1f411"	  U+1F411
+Glyph 295 (name index=552) -> "uni1f412"	  U+1F412
+Glyph 296 (name index=553) -> "uni1f413"	  U+1F413
+Glyph 297 (name index=554) -> "uni1f414"	  U+1F414
+Glyph 298 (name index=555) -> "uni1f415"	  U+1F415
+Glyph 299 (name index=556) -> "uni1f416"	  U+1F416
+Glyph 300 (name index=557) -> "uni1f417"	  U+1F417
+Glyph 301 (name index=558) -> "uni1f418"	  U+1F418
+Glyph 302 (name index=559) -> "uni1f419"	  U+1F419
+Glyph 303 (name index=560) -> "uni1f41a"	  U+1F41A
+Glyph 304 (name index=561) -> "uni1f41b"	  U+1F41B
+Glyph 305 (name index=562) -> "uni1f41c"	  U+1F41C
+Glyph 306 (name index=563) -> "uni1f41d"	  U+1F41D
+Glyph 307 (name index=564) -> "uni1f41e"	  U+1F41E
+Glyph 308 (name index=565) -> "uni1f41f"	  U+1F41F
+Glyph 309 (name index=566) -> "uni1f420"	  U+1F420
+Glyph 310 (name index=567) -> "uni1f421"	  U+1F421
+Glyph 311 (name index=568) -> "uni1f422"	  U+1F422
+Glyph 312 (name index=569) -> "uni1f423"	  U+1F423
+Glyph 313 (name index=570) -> "uni1f424"	  U+1F424
+Glyph 314 (name index=571) -> "uni1f425"	  U+1F425
+Glyph 315 (name index=572) -> "uni1f426"	  U+1F426
+Glyph 316 (name index=573) -> "uni1f427"	  U+1F427
+Glyph 317 (name index=574) -> "uni1f428"	  U+1F428
+Glyph 318 (name index=575) -> "uni1f429"	  U+1F429
+Glyph 319 (name index=576) -> "uni1f42a"	  U+1F42A
+Glyph 320 (name index=577) -> "uni1f42b"	  U+1F42B
+Glyph 321 (name index=578) -> "uni1f42c"	  U+1F42C
+Glyph 322 (name index=579) -> "uni1f42d"	  U+1F42D
+Glyph 323 (name index=580) -> "uni1f42e"	  U+1F42E
+Glyph 324 (name index=581) -> "uni1f42f"	  U+1F42F
+Glyph 325 (name index=582) -> "uni1f430"	  U+1F430
+Glyph 326 (name index=583) -> "uni1f431"	  U+1F431
+Glyph 327 (name index=584) -> "uni1f432"	  U+1F432
+Glyph 328 (name index=585) -> "uni1f433"	  U+1F433
+Glyph 329 (name index=586) -> "uni1f434"	  U+1F434
+Glyph 330 (name index=587) -> "uni1f435"	  U+1F435
+Glyph 331 (name index=588) -> "uni1f436"	  U+1F436
+Glyph 332 (name index=589) -> "uni1f437"	  U+1F437
+Glyph 333 (name index=590) -> "uni1f438"	  U+1F438
+Glyph 334 (name index=591) -> "uni1f439"	  U+1F439
+Glyph 335 (name index=592) -> "uni1f43a"	  U+1F43A
+Glyph 336 (name index=593) -> "uni1f43b"	  U+1F43B
+Glyph 337 (name index=594) -> "uni1f43c"	  U+1F43C
+Glyph 338 (name index=595) -> "uni1f43d"	  U+1F43D
+Glyph 339 (name index=596) -> "uni1f43e"	  U+1F43E
+Glyph 340 (name index=597) -> "uni1f440"	  U+1F440
+Glyph 341 (name index=598) -> "uni1f442"	  U+1F442
+Glyph 342 (name index=599) -> "uni1f443"	  U+1F443
+Glyph 343 (name index=600) -> "uni1f444"	  U+1F444
+Glyph 344 (name index=601) -> "uni1f445"	  U+1F445
+Glyph 345 (name index=602) -> "uni1f446"	  U+1F446
+Glyph 346 (name index=603) -> "uni1f447"	  U+1F447
+Glyph 347 (name index=604) -> "uni1f448"	  U+1F448
+Glyph 348 (name index=605) -> "uni1f449"	  U+1F449
+Glyph 349 (name index=606) -> "uni1f44a"	  U+1F44A
+Glyph 350 (name index=607) -> "uni1f44b"	  U+1F44B
+Glyph 351 (name index=608) -> "uni1f44c"	  U+1F44C
+Glyph 352 (name index=609) -> "uni1f44d"	  U+1F44D
+Glyph 353 (name index=610) -> "uni1f44e"	  U+1F44E
+Glyph 354 (name index=611) -> "uni1f44f"	  U+1F44F
+Glyph 355 (name index=612) -> "uni1f450"	  U+1F450
+Glyph 356 (name index=613) -> "uni1f451"	  U+1F451
+Glyph 357 (name index=614) -> "uni1f452"	  U+1F452
+Glyph 358 (name index=615) -> "uni1f453"	  U+1F453
+Glyph 359 (name index=616) -> "uni1f454"	  U+1F454
+Glyph 360 (name index=617) -> "uni1f455"	  U+1F455
+Glyph 361 (name index=618) -> "uni1f456"	  U+1F456
+Glyph 362 (name index=619) -> "uni1f457"	  U+1F457
+Glyph 363 (name index=620) -> "uni1f458"	  U+1F458
+Glyph 364 (name index=621) -> "uni1f459"	  U+1F459
+Glyph 365 (name index=622) -> "uni1f45a"	  U+1F45A
+Glyph 366 (name index=623) -> "uni1f45b"	  U+1F45B
+Glyph 367 (name index=624) -> "uni1f45c"	  U+1F45C
+Glyph 368 (name index=625) -> "uni1f45d"	  U+1F45D
+Glyph 369 (name index=626) -> "uni1f45e"	  U+1F45E
+Glyph 370 (name index=627) -> "uni1f45f"	  U+1F45F
+Glyph 371 (name index=628) -> "uni1f460"	  U+1F460
+Glyph 372 (name index=629) -> "uni1f461"	  U+1F461
+Glyph 373 (name index=630) -> "uni1f462"	  U+1F462
+Glyph 374 (name index=631) -> "uni1f463"	  U+1F463
+Glyph 375 (name index=632) -> "uni1f464"	  U+1F464
+Glyph 376 (name index=633) -> "uni1f465"	  U+1F465
+Glyph 377 (name index=634) -> "uni1f466"	  U+1F466
+Glyph 378 (name index=635) -> "uni1f467"	  U+1F467
+Glyph 379 (name index=636) -> "uni1f468"	  U+1F468
+Glyph 380 (name index=637) -> "uni1f469"	  U+1F469
+Glyph 381 (name index=638) -> "uni1f46a"	  U+1F46A
+Glyph 382 (name index=639) -> "uni1f46b"	  U+1F46B
+Glyph 383 (name index=640) -> "uni1f46c"	  U+1F46C
+Glyph 384 (name index=641) -> "uni1f46d"	  U+1F46D
+Glyph 385 (name index=642) -> "uni1f46e"	  U+1F46E
+Glyph 386 (name index=643) -> "uni1f46f"	  U+1F46F
+Glyph 387 (name index=644) -> "uni1f470"	  U+1F470
+Glyph 388 (name index=645) -> "uni1f471"	  U+1F471
+Glyph 389 (name index=646) -> "uni1f472"	  U+1F472
+Glyph 390 (name index=647) -> "uni1f473"	  U+1F473
+Glyph 391 (name index=648) -> "uni1f474"	  U+1F474
+Glyph 392 (name index=649) -> "uni1f475"	  U+1F475
+Glyph 393 (name index=650) -> "uni1f476"	  U+1F476
+Glyph 394 (name index=651) -> "uni1f477"	  U+1F477
+Glyph 395 (name index=652) -> "uni1f478"	  U+1F478
+Glyph 396 (name index=653) -> "uni1f614"	  U+1F614
+Glyph 397 (name index=654) -> "uni1f47a"	  U+1F47A
+Glyph 398 (name index=655) -> "uni1f47b"	  U+1F47B
+Glyph 399 (name index=656) -> "uni1f47c"	  U+1F47C
+Glyph 400 (name index=657) -> "uni1f47d"	  U+1F47D
+Glyph 401 (name index=658) -> "uni1f47e"	  U+1F47E
+Glyph 402 (name index=659) -> "uni1f47f"	  U+1F47F
+Glyph 403 (name index=660) -> "uni1f480"	  U+1F480
+Glyph 404 (name index=661) -> "uni1f481"	  U+1F481
+Glyph 405 (name index=662) -> "uni1f482"	  U+1F482
+Glyph 406 (name index=663) -> "uni1f483"	  U+1F483
+Glyph 407 (name index=664) -> "uni1f484"	  U+1F484
+Glyph 408 (name index=665) -> "uni1f485"	  U+1F485
+Glyph 409 (name index=666) -> "uni1f486"	  U+1F486
+Glyph 410 (name index=667) -> "uni1f487"	  U+1F487
+Glyph 411 (name index=668) -> "uni1f488"	  U+1F488
+Glyph 412 (name index=669) -> "uni1f489"	  U+1F489
+Glyph 413 (name index=670) -> "uni1f48a"	  U+1F48A
+Glyph 414 (name index=671) -> "uni1f48b"	  U+1F48B
+Glyph 415 (name index=672) -> "uni1f48c"	  U+1F48C
+Glyph 416 (name index=673) -> "uni1f48d"	  U+1F48D
+Glyph 417 (name index=674) -> "uni1f48e"	  U+1F48E
+Glyph 418 (name index=675) -> "uni1f48f"	  U+1F48F
+Glyph 419 (name index=676) -> "uni1f490"	  U+1F490
+Glyph 420 (name index=677) -> "uni1f491"	  U+1F491
+Glyph 421 (name index=678) -> "uni1f492"	  U+1F492
+Glyph 422 (name index=679) -> "uni1f493"	  U+1F493
+Glyph 423 (name index=680) -> "uni1f494"	  U+1F494
+Glyph 424 (name index=681) -> "uni1f495"	  U+1F495
+Glyph 425 (name index=682) -> "uni1f496"	  U+1F496
+Glyph 426 (name index=683) -> "uni1f497"	  U+1F497
+Glyph 427 (name index=684) -> "uni1f498"	  U+1F498
+Glyph 428 (name index=685) -> "uni1f499"	  U+1F499
+Glyph 429 (name index=686) -> "uni1f49a"	  U+1F49A
+Glyph 430 (name index=687) -> "uni1f49b"	  U+1F49B
+Glyph 431 (name index=688) -> "uni1f49c"	  U+1F49C
+Glyph 432 (name index=689) -> "uni1f49d"	  U+1F49D
+Glyph 433 (name index=690) -> "uni1f49e"	  U+1F49E
+Glyph 434 (name index=691) -> "uni1f49f"	  U+1F49F
+Glyph 435 (name index=692) -> "uni1f4a0"	  U+1F4A0
+Glyph 436 (name index=693) -> "uni1f4a1"	  U+1F4A1
+Glyph 437 (name index=694) -> "uni1f4a2"	  U+1F4A2
+Glyph 438 (name index=695) -> "uni1f4a3"	  U+1F4A3
+Glyph 439 (name index=696) -> "uni1f4a4"	  U+1F4A4
+Glyph 440 (name index=697) -> "uni1f4a5"	  U+1F4A5
+Glyph 441 (name index=698) -> "uni1f4a6"	  U+1F4A6
+Glyph 442 (name index=699) -> "uni1f4a7"	  U+1F4A7
+Glyph 443 (name index=700) -> "uni1f4a8"	  U+1F4A8
+Glyph 444 (name index=701) -> "uni1f4a9"	  U+1F4A9
+Glyph 445 (name index=702) -> "uni1f4aa"	  U+1F4AA
+Glyph 446 (name index=703) -> "uni1f4ab"	  U+1F4AB
+Glyph 447 (name index=704) -> "uni1f4ac"	  U+1F4AC
+Glyph 448 (name index=705) -> "uni1f4ad"	  U+1F4AD
+Glyph 449 (name index=706) -> "uni1f4ae"	  U+1F4AE
+Glyph 450 (name index=707) -> "uni1f4af"	  U+1F4AF
+Glyph 451 (name index=708) -> "uni1f4b0"	  U+1F4B0
+Glyph 452 (name index=709) -> "uni1f4b1"	  U+1F4B1
+Glyph 453 (name index=710) -> "uni1f4b2"	  U+1F4B2
+Glyph 454 (name index=711) -> "uni1f4b3"	  U+1F4B3
+Glyph 455 (name index=712) -> "uni1f4b4"	  U+1F4B4
+Glyph 456 (name index=713) -> "uni1f4b5"	  U+1F4B5
+Glyph 457 (name index=714) -> "uni1f4b6"	  U+1F4B6
+Glyph 458 (name index=715) -> "uni1f4b7"	  U+1F4B7
+Glyph 459 (name index=716) -> "uni1f4b8"	  U+1F4B8
+Glyph 460 (name index=717) -> "uni1f4b9"	  U+1F4B9
+Glyph 461 (name index=718) -> "uni1f4ba"	  U+1F4BA
+Glyph 462 (name index=719) -> "uni1f4bb"	  U+1F4BB
+Glyph 463 (name index=720) -> "uni1f4bc"	  U+1F4BC
+Glyph 464 (name index=721) -> "uni1f4bd"	  U+1F4BD
+Glyph 465 (name index=722) -> "uni1f4be"	  U+1F4BE
+Glyph 466 (name index=723) -> "uni1f4bf"	  U+1F4BF
+Glyph 467 (name index=724) -> "uni1f4c0"	  U+1F4C0
+Glyph 468 (name index=725) -> "uni1f4c1"	  U+1F4C1
+Glyph 469 (name index=726) -> "uni1f4c2"	  U+1F4C2
+Glyph 470 (name index=727) -> "uni1f4c3"	  U+1F4C3
+Glyph 471 (name index=728) -> "uni1f4c4"	  U+1F4C4
+Glyph 472 (name index=729) -> "uni1f4c5"	  U+1F4C5
+Glyph 473 (name index=730) -> "uni1f4c6"	  U+1F4C6
+Glyph 474 (name index=731) -> "uni1f4c7"	  U+1F4C7
+Glyph 475 (name index=732) -> "uni1f4c8"	  U+1F4C8
+Glyph 476 (name index=733) -> "uni1f4c9"	  U+1F4C9
+Glyph 477 (name index=734) -> "uni1f4ca"	  U+1F4CA
+Glyph 478 (name index=735) -> "uni1f4cb"	  U+1F4CB
+Glyph 479 (name index=736) -> "uni1f4cc"	  U+1F4CC
+Glyph 480 (name index=737) -> "uni1f4cd"	  U+1F4CD
+Glyph 481 (name index=738) -> "uni1f4ce"	  U+1F4CE
+Glyph 482 (name index=739) -> "uni1f4cf"	  U+1F4CF
+Glyph 483 (name index=740) -> "uni1f4d0"	  U+1F4D0
+Glyph 484 (name index=741) -> "uni1f4d1"	  U+1F4D1
+Glyph 485 (name index=742) -> "uni1f4d2"	  U+1F4D2
+Glyph 486 (name index=743) -> "uni1f4d3"	  U+1F4D3
+Glyph 487 (name index=744) -> "uni1f4d4"	  U+1F4D4
+Glyph 488 (name index=745) -> "uni1f4d5"	  U+1F4D5
+Glyph 489 (name index=746) -> "uni1f4d6"	  U+1F4D6
+Glyph 490 (name index=747) -> "uni1f4d7"	  U+1F4D7
+Glyph 491 (name index=748) -> "uni1f4d8"	  U+1F4D8
+Glyph 492 (name index=749) -> "uni1f4d9"	  U+1F4D9
+Glyph 493 (name index=750) -> "uni1f4da"	  U+1F4DA
+Glyph 494 (name index=751) -> "uni1f4db"	  U+1F4DB
+Glyph 495 (name index=752) -> "uni1f4dc"	  U+1F4DC
+Glyph 496 (name index=753) -> "uni1f4dd"	  U+1F4DD
+Glyph 497 (name index=754) -> "uni1f4de"	  U+1F4DE
+Glyph 498 (name index=755) -> "uni1f4df"	  U+1F4DF
+Glyph 499 (name index=756) -> "uni1f4e0"	  U+1F4E0
+Glyph 500 (name index=757) -> "uni1f4e1"	  U+1F4E1
+Glyph 501 (name index=758) -> "uni1f4e2"	  U+1F4E2
+Glyph 502 (name index=759) -> "uni1f4e3"	  U+1F4E3
+Glyph 503 (name index=760) -> "uni1f4e4"	  U+1F4E4
+Glyph 504 (name index=761) -> "unife4e5"	  U+FE4E5
+Glyph 505 (name index=762) -> "uni1f4e6"	  U+1F4E6
+Glyph 506 (name index=763) -> "unife4e7"	  U+FE4E7
+Glyph 507 (name index=764) -> "uni1f4e8"	  U+1F4E8
+Glyph 508 (name index=765) -> "unife4e9"	  U+FE4E9
+Glyph 509 (name index=766) -> "unife4ea"	  U+FE4EA
+Glyph 510 (name index=767) -> "uni1f4eb"	  U+1F4EB
+Glyph 511 (name index=768) -> "uni1f4ec"	  U+1F4EC
+Glyph 512 (name index=769) -> "uni1f4ed"	  U+1F4ED
+Glyph 513 (name index=770) -> "unife4ee"	  U+FE4EE
+Glyph 514 (name index=771) -> "uni1f4ef"	  U+1F4EF
+Glyph 515 (name index=772) -> "uni1f4f0"	  U+1F4F0
+Glyph 516 (name index=773) -> "uni1f4f1"	  U+1F4F1
+Glyph 517 (name index=774) -> "uni1f4f2"	  U+1F4F2
+Glyph 518 (name index=775) -> "uni1f4f3"	  U+1F4F3
+Glyph 519 (name index=776) -> "uni1f4f4"	  U+1F4F4
+Glyph 520 (name index=777) -> "uni1f4f5"	  U+1F4F5
+Glyph 521 (name index=778) -> "uni1f4f6"	  U+1F4F6
+Glyph 522 (name index=779) -> "uni1f4f7"	  U+1F4F7
+Glyph 523 (name index=780) -> "uni1f4f9"	  U+1F4F9
+Glyph 524 (name index=781) -> "uni1f4fa"	  U+1F4FA
+Glyph 525 (name index=782) -> "uni1f4fb"	  U+1F4FB
+Glyph 526 (name index=783) -> "uni1f4fc"	  U+1F4FC
+Glyph 527 (name index=784) -> "uni1f500"	  U+1F500
+Glyph 528 (name index=785) -> "uni1f501"	  U+1F501
+Glyph 529 (name index=786) -> "uni1f502"	  U+1F502
+Glyph 530 (name index=787) -> "uni1f503"	  U+1F503
+Glyph 531 (name index=788) -> "uni1f504"	  U+1F504
+Glyph 532 (name index=789) -> "uni1f505"	  U+1F505
+Glyph 533 (name index=790) -> "uni1f506"	  U+1F506
+Glyph 534 (name index=791) -> "uni1f507"	  U+1F507
+Glyph 535 (name index=792) -> "uni1f508"	  U+1F508
+Glyph 536 (name index=793) -> "uni1f509"	  U+1F509
+Glyph 537 (name index=794) -> "uni1f50a"	  U+1F50A
+Glyph 538 (name index=795) -> "uni1f50b"	  U+1F50B
+Glyph 539 (name index=796) -> "uni1f50c"	  U+1F50C
+Glyph 540 (name index=797) -> "uni1f50d"	  U+1F50D
+Glyph 541 (name index=798) -> "uni1f50e"	  U+1F50E
+Glyph 542 (name index=799) -> "uni1f50f"	  U+1F50F
+Glyph 543 (name index=800) -> "uni1f510"	  U+1F510
+Glyph 544 (name index=801) -> "uni1f511"	  U+1F511
+Glyph 545 (name index=802) -> "uni1f512"	  U+1F512
+Glyph 546 (name index=803) -> "uni1f513"	  U+1F513
+Glyph 547 (name index=804) -> "uni1f514"	  U+1F514
+Glyph 548 (name index=805) -> "uni1f515"	  U+1F515
+Glyph 549 (name index=806) -> "uni1f516"	  U+1F516
+Glyph 550 (name index=807) -> "uni1f517"	  U+1F517
+Glyph 551 (name index=808) -> "uni1f518"	  U+1F518
+Glyph 552 (name index=809) -> "uni1f519"	  U+1F519
+Glyph 553 (name index=810) -> "uni1f51a"	  U+1F51A
+Glyph 554 (name index=811) -> "uni1f51b"	  U+1F51B
+Glyph 555 (name index=812) -> "uni1f51c"	  U+1F51C
+Glyph 556 (name index=813) -> "uni1f51d"	  U+1F51D
+Glyph 557 (name index=814) -> "uni1f51e"	  U+1F51E
+Glyph 558 (name index=815) -> "uni1f51f"	  U+1F51F
+Glyph 559 (name index=816) -> "uni1f520"	  U+1F520
+Glyph 560 (name index=817) -> "uni1f521"	  U+1F521
+Glyph 561 (name index=818) -> "uni1f522"	  U+1F522
+Glyph 562 (name index=819) -> "uni1f523"	  U+1F523
+Glyph 563 (name index=820) -> "uni1f524"	  U+1F524
+Glyph 564 (name index=821) -> "uni1f525"	  U+1F525
+Glyph 565 (name index=822) -> "uni1f526"	  U+1F526
+Glyph 566 (name index=823) -> "uni1f527"	  U+1F527
+Glyph 567 (name index=824) -> "uni1f528"	  U+1F528
+Glyph 568 (name index=825) -> "uni1f529"	  U+1F529
+Glyph 569 (name index=826) -> "uni1f52a"	  U+1F52A
+Glyph 570 (name index=827) -> "uni1f52b"	  U+1F52B
+Glyph 571 (name index=828) -> "uni1f52c"	  U+1F52C
+Glyph 572 (name index=829) -> "uni1f52d"	  U+1F52D
+Glyph 573 (name index=830) -> "uni1f52e"	  U+1F52E
+Glyph 574 (name index=831) -> "uni1f52f"	  U+1F52F
+Glyph 575 (name index=832) -> "uni1f530"	  U+1F530
+Glyph 576 (name index=833) -> "uni1f531"	  U+1F531
+Glyph 577 (name index=834) -> "uni1f532"	  U+1F532
+Glyph 578 (name index=835) -> "uni1f533"	  U+1F533
+Glyph 579 (name index=836) -> "uni1f534"	  U+1F534
+Glyph 580 (name index=837) -> "uni1f535"	  U+1F535
+Glyph 581 (name index=838) -> "uni1f536"	  U+1F536
+Glyph 582 (name index=839) -> "uni1f537"	  U+1F537
+Glyph 583 (name index=840) -> "uni1f538"	  U+1F538
+Glyph 584 (name index=841) -> "uni1f539"	  U+1F539
+Glyph 585 (name index=842) -> "uni1f53a"	  U+1F53A
+Glyph 586 (name index=843) -> "uni1f53b"	  U+1F53B
+Glyph 587 (name index=844) -> "uni1f53c"	  U+1F53C
+Glyph 588 (name index=845) -> "uni1f53d"	  U+1F53D
+Glyph 589 (name index=846) -> "uni1f550"	  U+1F550
+Glyph 590 (name index=847) -> "uni1f551"	  U+1F551
+Glyph 591 (name index=848) -> "uni1f552"	  U+1F552
+Glyph 592 (name index=849) -> "uni1f553"	  U+1F553
+Glyph 593 (name index=850) -> "uni1f554"	  U+1F554
+Glyph 594 (name index=851) -> "uni1f555"	  U+1F555
+Glyph 595 (name index=852) -> "uni1f556"	  U+1F556
+Glyph 596 (name index=853) -> "uni1f557"	  U+1F557
+Glyph 597 (name index=854) -> "uni1f558"	  U+1F558
+Glyph 598 (name index=855) -> "uni1f559"	  U+1F559
+Glyph 599 (name index=856) -> "uni1f55a"	  U+1F55A
+Glyph 600 (name index=857) -> "uni1f55b"	  U+1F55B
+Glyph 601 (name index=858) -> "uni1f55c"	  U+1F55C
+Glyph 602 (name index=859) -> "uni1f55d"	  U+1F55D
+Glyph 603 (name index=860) -> "uni1f55e"	  U+1F55E
+Glyph 604 (name index=861) -> "uni1f4e5"	  U+1F4E5
+Glyph 605 (name index=862) -> "uni1f560"	  U+1F560
+Glyph 606 (name index=863) -> "uni1f561"	  U+1F561
+Glyph 607 (name index=864) -> "uni1f562"	  U+1F562
+Glyph 608 (name index=865) -> "uni1f563"	  U+1F563
+Glyph 609 (name index=866) -> "uni1f564"	  U+1F564
+Glyph 610 (name index=867) -> "uni1f565"	  U+1F565
+Glyph 611 (name index=868) -> "uni1f566"	  U+1F566
+Glyph 612 (name index=869) -> "uni1f567"	  U+1F567
+Glyph 613 (name index=870) -> "uni1f4e7"	  U+1F4E7
+Glyph 614 (name index=871) -> "unife4e8"	  U+FE4E8
+Glyph 615 (name index=872) -> "uni1f4e9"	  U+1F4E9
+Glyph 616 (name index=873) -> "uni1f4ea"	  U+1F4EA
+Glyph 617 (name index=874) -> "unife4eb"	  U+FE4EB
+Glyph 618 (name index=875) -> "unife4ec"	  U+FE4EC
+Glyph 619 (name index=876) -> "unife4ed"	  U+FE4ED
+Glyph 620 (name index=877) -> "uni1f4ee"	  U+1F4EE
+Glyph 621 (name index=878) -> "uni1f648"	  U+1F648
+Glyph 622 (name index=879) -> "uni2649"	  U+2649
+Glyph 623 (name index=880) -> "uni1f64a"	  U+1F64A
+Glyph 624 (name index=881) -> "uni1f64b"	  U+1F64B
+Glyph 625 (name index=882) -> "uni1f64c"	  U+1F64C
+Glyph 626 (name index=883) -> "uni264d"	  U+264D
+Glyph 627 (name index=884) -> "uni1f64e"	  U+1F64E
+Glyph 628 (name index=885) -> "uni1f64f"	  U+1F64F
+Glyph 629 (name index=886) -> "uni1f5fb"	  U+1F5FB
+Glyph 630 (name index=887) -> "uni1f5fc"	  U+1F5FC
+Glyph 631 (name index=888) -> "uni1f5fd"	  U+1F5FD
+Glyph 632 (name index=889) -> "uni1f5fe"	  U+1F5FE
+Glyph 633 (name index=890) -> "uni1f5ff"	  U+1F5FF
+Glyph 634 (name index=891) -> "uni1f600"	  U+1F600
+Glyph 635 (name index=892) -> "uni1f601"	  U+1F601
+Glyph 636 (name index=893) -> "uni1f602"	  U+1F602
+Glyph 637 (name index=894) -> "uni1f603"	  U+1F603
+Glyph 638 (name index=895) -> "uni1f604"	  U+1F604
+Glyph 639 (name index=896) -> "uni1f605"	  U+1F605
+Glyph 640 (name index=897) -> "uni1f606"	  U+1F606
+Glyph 641 (name index=898) -> "uni1f607"	  U+1F607
+Glyph 642 (name index=899) -> "uni1f608"	  U+1F608
+Glyph 643 (name index=900) -> "uni1f609"	  U+1F609
+Glyph 644 (name index=901) -> "uni1f60a"	  U+1F60A
+Glyph 645 (name index=902) -> "uni1f60b"	  U+1F60B
+Glyph 646 (name index=903) -> "uni1f60c"	  U+1F60C
+Glyph 647 (name index=904) -> "uni1f60d"	  U+1F60D
+Glyph 648 (name index=905) -> "uni1f60e"	  U+1F60E
+Glyph 649 (name index=906) -> "uni1f60f"	  U+1F60F
+Glyph 650 (name index=907) -> "uni1f610"	  U+1F610
+Glyph 651 (name index=908) -> "uni1f611"	  U+1F611
+Glyph 652 (name index=909) -> "uni1f612"	  U+1F612
+Glyph 653 (name index=910) -> "uni1f613"	  U+1F613
+Glyph 654 (name index=911) -> "uni2614"	  U+2614
+Glyph 655 (name index=912) -> "uni2615"	  U+2615
+Glyph 656 (name index=913) -> "uni1f616"	  U+1F616
+Glyph 657 (name index=914) -> "uni1f617"	  U+1F617
+Glyph 658 (name index=915) -> "uni1f618"	  U+1F618
+Glyph 659 (name index=916) -> "uni1f619"	  U+1F619
+Glyph 660 (name index=917) -> "uni1f61a"	  U+1F61A
+Glyph 661 (name index=918) -> "uni1f61b"	  U+1F61B
+Glyph 662 (name index=919) -> "uni1f61c"	  U+1F61C
+Glyph 663 (name index=920) -> "uni1f61d"	  U+1F61D
+Glyph 664 (name index=921) -> "uni1f61e"	  U+1F61E
+Glyph 665 (name index=922) -> "uni1f61f"	  U+1F61F
+Glyph 666 (name index=923) -> "uni1f620"	  U+1F620
+Glyph 667 (name index=924) -> "uni1f621"	  U+1F621
+Glyph 668 (name index=925) -> "uni1f622"	  U+1F622
+Glyph 669 (name index=926) -> "uni1f623"	  U+1F623
+Glyph 670 (name index=927) -> "uni1f624"	  U+1F624
+Glyph 671 (name index=928) -> "uni1f625"	  U+1F625
+Glyph 672 (name index=929) -> "uni1f626"	  U+1F626
+Glyph 673 (name index=930) -> "uni1f627"	  U+1F627
+Glyph 674 (name index=931) -> "uni1f628"	  U+1F628
+Glyph 675 (name index=932) -> "uni1f629"	  U+1F629
+Glyph 676 (name index=933) -> "uni1f62a"	  U+1F62A
+Glyph 677 (name index=934) -> "uni1f62b"	  U+1F62B
+Glyph 678 (name index=935) -> "uni1f615"	  U+1F615
+Glyph 679 (name index=936) -> "uni1f62d"	  U+1F62D
+Glyph 680 (name index=937) -> "uni1f62e"	  U+1F62E
+Glyph 681 (name index=938) -> "uni1f62f"	  U+1F62F
+Glyph 682 (name index=939) -> "uni1f630"	  U+1F630
+Glyph 683 (name index=940) -> "uni1f631"	  U+1F631
+Glyph 684 (name index=941) -> "uni1f632"	  U+1F632
+Glyph 685 (name index=942) -> "uni1f633"	  U+1F633
+Glyph 686 (name index=943) -> "uni1f634"	  U+1F634
+Glyph 687 (name index=944) -> "uni1f635"	  U+1F635
+Glyph 688 (name index=945) -> "uni1f636"	  U+1F636
+Glyph 689 (name index=946) -> "uni1f637"	  U+1F637
+Glyph 690 (name index=947) -> "uni1f638"	  U+1F638
+Glyph 691 (name index=948) -> "uni1f639"	  U+1F639
+Glyph 692 (name index=949) -> "uni263a"	  U+263A
+Glyph 693 (name index=950) -> "uni1f63b"	  U+1F63B
+Glyph 694 (name index=951) -> "uni1f63c"	  U+1F63C
+Glyph 695 (name index=952) -> "uni1f63d"	  U+1F63D
+Glyph 696 (name index=953) -> "uni1f63e"	  U+1F63E
+Glyph 697 (name index=954) -> "uni1f63f"	  U+1F63F
+Glyph 698 (name index=955) -> "uni1f640"	  U+1F640
+Glyph 699 (name index=956) -> "uni1f645"	  U+1F645
+Glyph 700 (name index=957) -> "uni1f646"	  U+1F646
+Glyph 701 (name index=958) -> "uni1f647"	  U+1F647
+Glyph 702 (name index=959) -> "uni2648"	  U+2648
+Glyph 703 (name index=960) -> "uni1f649"	  U+1F649
+Glyph 704 (name index=961) -> "uni264a"	  U+264A
+Glyph 705 (name index=962) -> "uni264b"	  U+264B
+Glyph 706 (name index=963) -> "uni264c"	  U+264C
+Glyph 707 (name index=964) -> "uni1f64d"	  U+1F64D
+Glyph 708 (name index=965) -> "uni264e"	  U+264E
+Glyph 709 (name index=966) -> "uni264f"	  U+264F
+Glyph 710 (name index=967) -> "uni2650"	  U+2650
+Glyph 711 (name index=968) -> "uni2651"	  U+2651
+Glyph 712 (name index=969) -> "uni2652"	  U+2652
+Glyph 713 (name index=970) -> "uni2653"	  U+2653
+Glyph 714 (name index=971) -> "uni267b"	  U+267B
+Glyph 715 (name index=972) -> "uni267f"	  U+267F
+Glyph 716 (name index=973) -> "uni1f680"	  U+1F680
+Glyph 717 (name index=974) -> "uni1f681"	  U+1F681
+Glyph 718 (name index=975) -> "uni1f682"	  U+1F682
+Glyph 719 (name index=976) -> "uni1f683"	  U+1F683
+Glyph 720 (name index=977) -> "uni1f684"	  U+1F684
+Glyph 721 (name index=978) -> "uni1f685"	  U+1F685
+Glyph 722 (name index=979) -> "uni1f686"	  U+1F686
+Glyph 723 (name index=980) -> "uni1f687"	  U+1F687
+Glyph 724 (name index=981) -> "uni1f688"	  U+1F688
+Glyph 725 (name index=982) -> "uni1f689"	  U+1F689
+Glyph 726 (name index=983) -> "uni1f68a"	  U+1F68A
+Glyph 727 (name index=984) -> "uni1f68b"	  U+1F68B
+Glyph 728 (name index=985) -> "uni1f68c"	  U+1F68C
+Glyph 729 (name index=986) -> "uni1f68d"	  U+1F68D
+Glyph 730 (name index=987) -> "uni1f68e"	  U+1F68E
+Glyph 731 (name index=988) -> "uni1f68f"	  U+1F68F
+Glyph 732 (name index=989) -> "uni1f690"	  U+1F690
+Glyph 733 (name index=990) -> "uni1f691"	  U+1F691
+Glyph 734 (name index=991) -> "uni1f692"	  U+1F692
+Glyph 735 (name index=992) -> "uni1f693"	  U+1F693
+Glyph 736 (name index=993) -> "uni1f694"	  U+1F694
+Glyph 737 (name index=994) -> "uni1f695"	  U+1F695
+Glyph 738 (name index=995) -> "uni1f696"	  U+1F696
+Glyph 739 (name index=996) -> "uni1f697"	  U+1F697
+Glyph 740 (name index=997) -> "uni1f698"	  U+1F698
+Glyph 741 (name index=998) -> "uni1f699"	  U+1F699
+Glyph 742 (name index=999) -> "uni1f69a"	  U+1F69A
+Glyph 743 (name index=1000) -> "uni1f69b"	  U+1F69B
+Glyph 744 (name index=1001) -> "uni1f69c"	  U+1F69C
+Glyph 745 (name index=1002) -> "uni1f69d"	  U+1F69D
+Glyph 746 (name index=1003) -> "uni1f69e"	  U+1F69E
+Glyph 747 (name index=1004) -> "uni1f69f"	  U+1F69F
+Glyph 748 (name index=1005) -> "uni1f6a0"	  U+1F6A0
+Glyph 749 (name index=1006) -> "uni26a1"	  U+26A1
+Glyph 750 (name index=1007) -> "uni1f6a2"	  U+1F6A2
+Glyph 751 (name index=1008) -> "uni1f6a3"	  U+1F6A3
+Glyph 752 (name index=1009) -> "uni1f6a4"	  U+1F6A4
+Glyph 753 (name index=1010) -> "uni1f6a5"	  U+1F6A5
+Glyph 754 (name index=1011) -> "uni1f6a6"	  U+1F6A6
+Glyph 755 (name index=1012) -> "uni1f6a7"	  U+1F6A7
+Glyph 756 (name index=1013) -> "uni1f6a8"	  U+1F6A8
+Glyph 757 (name index=1014) -> "uni1f6a9"	  U+1F6A9
+Glyph 758 (name index=1015) -> "uni1f6aa"	  U+1F6AA
+Glyph 759 (name index=1016) -> "uni1f6ab"	  U+1F6AB
+Glyph 760 (name index=1017) -> "uni1f6ac"	  U+1F6AC
+Glyph 761 (name index=1018) -> "uni1f6ad"	  U+1F6AD
+Glyph 762 (name index=1019) -> "uni1f6ae"	  U+1F6AE
+Glyph 763 (name index=1020) -> "uni1f6af"	  U+1F6AF
+Glyph 764 (name index=1021) -> "uni1f6b0"	  U+1F6B0
+Glyph 765 (name index=1022) -> "uni1f6b1"	  U+1F6B1
+Glyph 766 (name index=1023) -> "uni1f6b2"	  U+1F6B2
+Glyph 767 (name index=1024) -> "uni1f6b3"	  U+1F6B3
+Glyph 768 (name index=1025) -> "uni1f6b4"	  U+1F6B4
+Glyph 769 (name index=1026) -> "uni1f6b5"	  U+1F6B5
+Glyph 770 (name index=1027) -> "uni1f6b6"	  U+1F6B6
+Glyph 771 (name index=1028) -> "uni1f6b7"	  U+1F6B7
+Glyph 772 (name index=1029) -> "uni1f6b8"	  U+1F6B8
+Glyph 773 (name index=1030) -> "uni1f6b9"	  U+1F6B9
+Glyph 774 (name index=1031) -> "uni1f6ba"	  U+1F6BA
+Glyph 775 (name index=1032) -> "uni1f6bb"	  U+1F6BB
+Glyph 776 (name index=1033) -> "uni1f6bc"	  U+1F6BC
+Glyph 777 (name index=1034) -> "uni1f6bd"	  U+1F6BD
+Glyph 778 (name index=1035) -> "uni1f6be"	  U+1F6BE
+Glyph 779 (name index=1036) -> "uni1f6bf"	  U+1F6BF
+Glyph 780 (name index=1037) -> "uni1f6c0"	  U+1F6C0
+Glyph 781 (name index=1038) -> "uni1f6c1"	  U+1F6C1
+Glyph 782 (name index=1039) -> "uni1f6c2"	  U+1F6C2
+Glyph 783 (name index=1040) -> "uni1f6c3"	  U+1F6C3
+Glyph 784 (name index=1041) -> "uni26c4"	  U+26C4
+Glyph 785 (name index=1042) -> "uni26c5"	  U+26C5
+Glyph 786 (name index=1043) -> "uni26ce"	  U+26CE
+Glyph 787 (name index=1044) -> "uni26d4"	  U+26D4
+Glyph 788 (name index=1045) -> "uni26ea"	  U+26EA
+Glyph 789 (name index=1046) -> "uni26f2"	  U+26F2
+Glyph 790 (name index=1047) -> "uni26f3"	  U+26F3
+Glyph 791 (name index=1048) -> "uni26f5"	  U+26F5
+Glyph 792 (name index=1049) -> "uni26fa"	  U+26FA
+Glyph 793 (name index=1050) -> "uni26fd"	  U+26FD
+Glyph 794 (name index=1051) -> "uni2705"	  U+2705
+Glyph 795 (name index=1052) -> "uni270a"	  U+270A
+Glyph 796 (name index=1053) -> "uni270b"	  U+270B
+Glyph 797 (name index=1054) -> "uni270c"	  U+270C
+Glyph 798 (name index=1055) -> "uni2728"	  U+2728
+Glyph 799 (name index=1056) -> "uni2611"	  U+2611
+Glyph 800 (name index=1057) -> "uni274c"	  U+274C
+Glyph 801 (name index=1058) -> "uni274e"	  U+274E
+Glyph 802 (name index=1059) -> "uni2753"	  U+2753
+Glyph 803 (name index=1060) -> "uni2754"	  U+2754
+Glyph 804 (name index=1061) -> "uni2755"	  U+2755
+Glyph 805 (name index=1062) -> "uni2693"	  U+2693
+Glyph 806 (name index=1063) -> "uni23e9"	  U+23E9
+Glyph 807 (name index=1064) -> "uni23ea"	  U+23EA
+Glyph 808 (name index=1065) -> "uni1f3eb"	  U+1F3EB
+Glyph 809 (name index=1066) -> "uni1f3ec"	  U+1F3EC
+Glyph 810 (name index=1067) -> "uni2795"	  U+2795
+Glyph 811 (name index=1068) -> "uni2796"	  U+2796
+Glyph 812 (name index=1069) -> "uni2797"	  U+2797
+Glyph 813 (name index=1070) -> "uni1f3f0"	  U+1F3F0
+Glyph 814 (name index=1071) -> "uni27b0"	  U+27B0
+Glyph 815 (name index=1072) -> "uni27bf"	  U+27BF
+Glyph 816 (name index=1073) -> "uni26a0"	  U+26A0
+Glyph 817 (name index=1074) -> "uni1f6a1"	  U+1F6A1

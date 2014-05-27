@@ -1,0 +1,10 @@
+showttf NotoColorEmoji.ttf > showttf
+ruby1.8 emoji_extractor.rb 
+chmod +x mv.sh 
+cd images/
+cd 68x64/
+../../mv.sh 
+cd ..
+cd 136x128/
+../../mv.sh 
+cd ../..
